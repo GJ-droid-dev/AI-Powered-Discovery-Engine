@@ -14,8 +14,9 @@
 
 The workflow can be tested live in an interactive Streamlit dashboard:
 
+- **Live Streamlit Community Cloud**: [https://ai-powered-discovery-engine-zp5un3areartkvzgb8p5xc.streamlit.app/](https://ai-powered-discovery-engine-zp5un3areartkvzgb8p5xc.streamlit.app/)
 - **Local Access**: [http://localhost:8501](http://localhost:8501)
-- **Public Tunnel Access**: [https://two-places-behave.loca.lt](https://two-places-behave.loca.lt)  
+- **Public Tunnel Access (Backup)**: [https://two-places-behave.loca.lt](https://two-places-behave.loca.lt)  
   *(If prompted for tunnel password, enter host endpoint IP: `38.254.176.6`)*
 
 ### Testing the Workflow Live
