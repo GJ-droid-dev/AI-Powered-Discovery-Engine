@@ -1,0 +1,33 @@
+# Analysis pipeline configuration
+
+# Relevance filter thresholds
+relevance_threshold: 0.7      # >= this → relevant
+review_threshold: 0.4         # 0.4–0.7 → flagged for review, < 0.4 → discarded
+min_text_length: 20           # Skip records shorter than this
+
+# Severity scoring weights
+severity_weights:
+  language_intensity: 0.4     # Frustration keywords, caps, exclamation marks
+  star_rating: 0.3            # Inverted — lower stars = higher severity
+  churn_signal: 0.3           # "switching to", "uninstalling", "giving up"
+
+# Opportunity ranking weights
+opportunity_weights:
+  volume: 0.4
+  severity: 0.4
+  feasibility: 0.2
+
+# Seed failure taxonomy (emergent categories discovered via clustering)
+seed_taxonomy:
+  - contextual_episodic
+  - temporal_approximation
+  - visual_detail
+  - people_event
+  - document_screenshot
+  - object_in_scene
+  - emotional_association
+
+# LLM settings
+llm_model: "gemini-3.8-flash"
+llm_temperature: 0.0
+batch_size: 5                 # Records per LLM batch call

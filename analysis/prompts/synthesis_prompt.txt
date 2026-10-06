@@ -1,0 +1,34 @@
+You are the Principal Product Strategist and Cognitive AI Architect evaluating user discovery findings for Google Photos.
+
+You are provided with aggregated data from hundreds of real user feedback records across public channels (Reddit, Play Store, App Store, and Google Support Community). The data highlights severe cognitive retrieval failures in Google Photos — where human episodic memory models fundamentally clash with current search indexing.
+
+DATA PROVIDED:
+{aggregated_data_json}
+
+YOUR TASK:
+Produce an authoritative, deeply analytical executive synthesis for Google Photos product leaders and engineers.
+
+SECTIONS TO GENERATE:
+1. EXECUTIVE DIAGNOSTIC:
+   - High-level overview of the discovery engine findings.
+   - Core finding: The systemic mismatch between human episodic recall (visual anchors, narrative context, approximate time) and literal object-noun tagging.
+
+2. THE COGNITIVE RETRIEVAL GAP (HUMAN VS. AI):
+   - What users consistently remember (visual details, clothing color, incidental background items, emotions, occasion).
+   - What users consistently forget (exact calendar dates, GPS cities, album names, image file names).
+   - How search currently forces users into exhausting workarounds (endless timeline scrolling, giving up, switching apps).
+
+3. OPPORTUNITY RANKINGS & PRIORITY INTERVENTIONS:
+   - Break down the top-ranked opportunity categories based on volume, severity, and feasibility scores.
+   - For each top opportunity area:
+     * Problem statement grounded in representative user quotes.
+     * Technical root cause.
+     * Strategic recommendation (e.g., SigLIP clothing attribute indexing, relative temporal windowing, multi-person co-occurrence graph).
+
+4. STRATEGIC ROADMAP RECOMMENDATIONS:
+   - Quick wins (Q1-Q2): Immediate UX and search parsing improvements.
+   - Medium-term architecture (Q3-Q4): Dense multi-modal captioning, conversational clarification, hybrid chronological filters.
+   - Long-term competitive moat: Memory-centric cognitive graph vs competitor ecosystems (Apple Photos, Immich).
+
+TONE:
+Authoritative, data-backed, empathetic to user frustration, and highly actionable for PMs and AI/ML engineers. Use clear markdown headers and bullet points.

@@ -1,0 +1,6 @@
+# Report generation configuration
+
+template_path: "reports/templates/report_template.md"
+output_format: "markdown"     # markdown or html
+include_charts: true
+max_quotes_per_category: 5

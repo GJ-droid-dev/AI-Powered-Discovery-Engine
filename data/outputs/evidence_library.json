@@ -1,0 +1,1692 @@
+[
+  {
+    "quote_id": "d8481144-f5a2-4db4-a5a9-1b8fa2539754",
+    "text": "I love this app I think it’s so good love the layout and the reminders at the top of the last year however, Google photos can’t group people faces \nOne person can be 5 different people \nI wish it was like iPhone where you can review people to say if that is “name” face",
+    "source_type": "app_store",
+    "source_url": "https://apps.apple.com/gb/app/google-photos/id962194608",
+    "date": "2024-08-29T14:28:47-07:00",
+    "rating": 4,
+    "categories": [
+      "people_event"
+    ],
+    "category_primary": "people_event",
+    "severity_score": 7.5,
+    "failure_description": "Face clustering and person recognition fails by splitting the same individual across multiple identity groups without intuitive review or merging tools.",
+    "remembered_summary": "people: specific person appearing across multiple face clusters | temporal_cues: last year | visual_cues: people faces",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "4a64fd6a-9c90-41eb-9a2b-712b72e43b8e",
+    "text": "some time ago face detection became really horrid - from a great and useful feature it started grouping all babies or all bold men to one person... and if you try to remove them, there's always an error that shows up :(",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=d2b35a60-2fa9-4a14-b2cf-910e51252800",
+    "date": "2026-09-18T16:07:17",
+    "rating": 3,
+    "categories": [
+      "people_event"
+    ],
+    "category_primary": "people_event",
+    "severity_score": 15.0,
+    "failure_description": "Face clustering fails to differentiate individual identities, incorrectly grouping distinct individuals like babies or bald men into single person clusters.",
+    "remembered_summary": "people: babies, bald men | emotions: frustrated | temporal_cues: some time ago | visual_cues: babies, bald men",
+    "forgotten_summary": "exact date, exact location, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "0d8dd54a-8a29-486a-813c-9bd45fff1f37",
+    "text": "sharing photos to Gemini or Signal or other app doesn't work - literally nothing happens. Search is useless - it doesn't come up with anything on first attempt, sometimes never",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=55124187-bbcd-4c32-b8ed-2be7922282e1",
+    "date": "2026-09-18T05:46:04",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 42.0,
+    "failure_description": "Search fails to return any results on initial attempts or indefinitely, pointing to indexing latency or technical search outage rather than a specific cognitive query mismatch.",
+    "remembered_summary": "emotions: frustrated",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "a905b075-f02d-4012-be4d-0d1c208128c3",
+    "text": "I can't seem to find all my photos",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=5e99cf4d-a297-47ea-883c-33821b0c148a",
+    "date": "2026-09-17T19:46:19",
+    "rating": 2,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 22.5,
+    "failure_description": "User is experiencing a general library indexing or sync failure where large portions of their photo collection cannot be found.",
+    "remembered_summary": "",
+    "forgotten_summary": "exact date, exact location, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "f9e1e9ce-26e3-4904-89c3-1113d0150a37",
+    "text": "The latest update is horrible. Photos used to have the most amazing AI search. The search in this version is HORRIBLE. You keep becoming more like Apple and iPhone every day",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=c5a0669e-3256-4824-ad70-5e1e1324b8e3",
+    "date": "2026-09-17T19:36:53",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 56.6,
+    "failure_description": "User reports a general regression in AI search quality and capability following a recent app update without providing specific query details.",
+    "remembered_summary": "",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "c1ac6410-75a5-46c0-a82f-38a28bbb7d35",
+    "text": "KINDLY TAKE OFF : SAVE COPY. It's cluttering and placing pics in the beginning. I need easy organization to be able to go back to finding and making videos. Thank you",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=96a1fc11-12b6-4f59-b7d3-eefde5aaf496",
+    "date": "2026-09-17T19:16:50",
+    "rating": 4,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 20.4,
+    "failure_description": "User struggles to organize and find media because edited 'Save copy' versions clutter and disrupt the timeline sorting.",
+    "remembered_summary": "emotions: frustrated, overwhelmed | temporal_cues: in the beginning | event_context: making videos | object_cues: saved copy photos, videos",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "7cc4137b-5f65-4d34-9d72-ff5b419d9c5e",
+    "text": "Google Photos is one of the most poorly designed apps that I've ever used. The search feature is very inaccurate, and you'll get a migraine before you locate what you're looking for through visual inspection.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=f7a2f0a5-1e85-4f5b-97e2-e8841c0658b0",
+    "date": "2026-09-17T14:26:31",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 30.0,
+    "failure_description": "The user experiences general search inaccuracy, forcing tedious manual visual inspection across their library without specific query feature support mentioned.",
+    "remembered_summary": "emotions: frustrated",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "09844817-9936-49d7-9c25-1c0c9b0b837f",
+    "text": "This was the gold standard for the better part of a decade but as with all things Google it's been getting worse and worse the last few years, especially as they try to shoehorn more AI into it. Search is somehow worse now, and I don't like that my Google drive just got upgraded to an AI plan without my consent. I'm currently backing everything up to migrate to something else so I can cancel my Google drive subscription.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=16356980-6461-481d-a9b8-580ec9d4fad9",
+    "date": "2026-09-17T09:59:25",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 30.0,
+    "failure_description": "User reports general search quality degradation and dissatisfaction following recent AI integration without specifying a particular query modality.",
+    "remembered_summary": "emotions: frustrated, dissatisfied",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "99d93aed-fb31-42e9-8363-ff1a6f383400",
+    "text": "not tagging photos in folders which are not the camera folder e.g my pictures from WhatsApp. Great automatic uploading for cloud backup of photos.love the automatic videos, gifs and photo effects.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=535fded2-ae51-4558-8481-6fd19f7125f4",
+    "date": "2026-09-17T01:35:22",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 30.0,
+    "failure_description": "The system fails to automatically tag and index photos originating from non-camera folders such as WhatsApp, excluding them from search and recognition features.",
+    "remembered_summary": "object_cues: pictures from WhatsApp, photos in non-camera folders",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "dddfa2e3-39ce-4074-90a3-61ace3d9ccb7",
+    "text": "See all the reasons above and below my review. Pictures are hidden in folders and hard to locate. Limited storage sucks and you get 1 star for that. Don't expect much. the ai now catalogs all your pictures so there's that.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=b0b41afd-959c-4ce5-b97b-ec20bf987318",
+    "date": "2026-09-16T05:05:39",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 42.0,
+    "failure_description": "User experiences difficulty finding photos due to complex folder organization and lack of intuitive navigation.",
+    "remembered_summary": "",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "8d7f9bce-b71c-4120-b6e3-e286bfbf04db",
+    "text": "How did I just discover Google Photos now 🙃 but I do have some complaints 1: alot of photos/videos are misfiled cuz you can't modify who is tagged in it. You should be able to manually box and tag. Especially with side view faces that aren't recognized 2: For more private photos/videos there should be a private folder. 3: when im assigning a face to a name i already have, it won't let me select the name rather or gives me an error message",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=d874566f-b1d1-4ea6-b0f6-4db4b36fd46c",
+    "date": "2026-09-16T03:38:34",
+    "rating": 4,
+    "categories": [
+      "people_event"
+    ],
+    "category_primary": "people_event",
+    "severity_score": 7.5,
+    "failure_description": "User cannot find or organize photos by person due to unrecognized side-profile faces and inability to manually tag or merge face clusters.",
+    "remembered_summary": "people: people with side view faces, known contacts/names | visual_cues: side view faces",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "8f052d77-6d58-4909-a909-06e9cc400941",
+    "text": "Pixel 10. Forced Updates. TEXT/SUBJECT search is FAIL. \"Car Engine\" - have 100s of repair photos But Only 15 Show? Often AI says \"none\"or wonky/useless \"results\" includes ALOT (100s +) irrelevant results. Edited Image cannot be reedited, reverts to original photo😖 Organization is dreadfull. Cannot Sort FOLDERS or PEOPLE by Name, result is a jumbled mess . Many important faces NOT FOUND so edit & Create PEOPLE w/name & App still not autoadded But Fuzzy Background Nobody faces are 🤯",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=72dcb862-c595-4edf-a0a9-0ba0b9d4519e",
+    "date": "2026-09-16T02:53:16",
+    "rating": 1,
+    "categories": [
+      "object_in_scene",
+      "people_event"
+    ],
+    "category_primary": "object_in_scene",
+    "severity_score": 62.0,
+    "failure_description": "Search fails to reliably return photos of specific objects like 'car engine' from repair documentation and suffers from face detection and grouping failures for key individuals.",
+    "remembered_summary": "people: important faces | event_context: car repair | object_cues: car engine, repair photos",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": "Car Engine"
+  },
+  {
+    "quote_id": "f6f1bc3c-5d6f-4682-86d7-125acecf6bb0",
+    "text": "The image search feature has actually gotten worse.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=d8a6e523-2eb2-499f-ba0a-b242a82b38a5",
+    "date": "2026-09-16T00:31:52",
+    "rating": 2,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 22.5,
+    "failure_description": "The user reports a perceived overall degradation of the image search feature without specifying the retrieval context or query details.",
+    "remembered_summary": "",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "48d2b904-af4c-41e7-893b-ef947c970196",
+    "text": "face detection automatically reset i cannot see a familar face. App is telling me to set new face. please fix this glitch",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=6cd8a38c-946a-464d-ae9d-5ec8e2a867a7",
+    "date": "2026-09-15T20:17:21",
+    "rating": 1,
+    "categories": [
+      "people_event",
+      "emergent"
+    ],
+    "category_primary": "people_event",
+    "severity_score": 30.0,
+    "failure_description": "Face detection and grouping metadata was reset, preventing the user from retrieving photos of recognized individuals.",
+    "remembered_summary": "people: familiar face | visual_cues: faces",
+    "forgotten_summary": "exact date, exact location, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "aa7e98cc-a64b-47f6-bfc8-d46656804d63",
+    "text": "2026 Edit: The search feature has turned to trash. Stop making your apps worse. Google Photos, Google Maps—both were way better, now I'm leaving for competitors.…………………………………….….……… 2023 Edit: Latest update ruined the editing options.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=8814cf63-90ac-4912-a273-0897a7bbad64",
+    "date": "2026-09-15T08:02:15",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 30.0,
+    "failure_description": "User expresses broad dissatisfaction with general search degradation without specifying particular recall cues or failure modes.",
+    "remembered_summary": "",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "0e02da8f-f3fd-4c7f-93d5-c69fe5e0cd77",
+    "text": "Search is absolutely worthless.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=0b000e1a-be3b-4acf-a364-5575d70901ab",
+    "date": "2026-09-15T07:48:57",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 30.0,
+    "failure_description": "The user reports a total failure of the search feature without providing specific context, details, or query examples.",
+    "remembered_summary": "",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "ffd5da30-3eff-4181-8068-639659bdd3a5",
+    "text": "I can't label my face or search for it",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=6aa5e76b-d4d7-4db2-a1dc-e59af306fb8d",
+    "date": "2026-09-15T01:36:34",
+    "rating": 1,
+    "categories": [
+      "people_event"
+    ],
+    "category_primary": "people_event",
+    "severity_score": 30.0,
+    "failure_description": "The user is unable to label or search for their own face, preventing person-based retrieval.",
+    "remembered_summary": "people: self | visual_cues: face",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "ce4f5a45-c85a-4fed-8de2-b50116232a40",
+    "text": "would give it a 5 but I can't add photos to the faces folders. There are issues that I've read other users experiencing with like twins and similar looking pets. Adding a feature that lets users add images to specific people would benefit them a lot.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=7943b1f8-2a4e-4a2a-b180-3b37ac1e6fe6",
+    "date": "2026-09-13T14:56:01",
+    "rating": 3,
+    "categories": [
+      "people_event",
+      "emergent"
+    ],
+    "category_primary": "people_event",
+    "severity_score": 15.0,
+    "failure_description": "The system fails to accurately cluster or allow manual tagging for face groups, particularly for twins and similar-looking pets.",
+    "remembered_summary": "people: twins, specific people | visual_cues: similar looking pets, identical appearance | object_cues: pets",
+    "forgotten_summary": "exact date, exact location, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "efbe6785-2059-4336-9ca0-8e606d9e8248",
+    "text": "Another Google app that's becoming more and more infuriatingly unusable by the day. I love the Gemini app itself and I pay an additional fee for it, but when integrated into other Google Apps such as photos it just plain sucks. 😢 in particular search functions now terrible I can't find any photos of looking for and most of the time the deletion and creation of new photos are impossible to sync up between my iPad and my Google pixel phone. integrating Gemini into so many apps so fast seems to",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=a063c498-e373-40ef-8576-598daab29f0d",
+    "date": "2026-09-13T12:15:45",
+    "rating": 3,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 51.0,
+    "failure_description": "The user experiences general search degradation and cross-device sync failures following the integration of Gemini AI search capabilities.",
+    "remembered_summary": "",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "5255ec66-94d6-4bc2-9022-569368b4dac0",
+    "text": "even after backed up photos there are no chance to found same face person after search the name of person🥴😑",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=62c67eee-bad9-4a88-908f-599807bdfceb",
+    "date": "2026-09-12T11:47:47",
+    "rating": 1,
+    "categories": [
+      "people_event"
+    ],
+    "category_primary": "people_event",
+    "severity_score": 30.0,
+    "failure_description": "The system fails to identify or retrieve photos of a specific person when searched by name despite photos being backed up.",
+    "remembered_summary": "people: specific person | emotions: frustrated, annoyed | visual_cues: person's face",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": "name of person"
+  },
+  {
+    "quote_id": "e697825b-e096-4989-804f-183723caee8f",
+    "text": "Search function doesn't work without back up. I want to use the functions of my phone not some cloud service.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=ae8c1c4f-0c85-46c0-bfc2-270d1102cd58",
+    "date": "2026-09-12T10:26:14",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 30.0,
+    "failure_description": "User is unable to search local device photos because the search capability strictly requires cloud backup enabled.",
+    "remembered_summary": "",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "d39e79d1-bfaa-4a91-88cb-313ac6c5193c",
+    "text": "wht cant you sort the the album like type of file, date, name wise. Appreciate if it is possible",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=020c09be-5915-47ca-9fa7-221ce2f75800",
+    "date": "2026-09-12T09:16:36",
+    "rating": 3,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 15.0,
+    "failure_description": "User is unable to organize or retrieve photos within albums using basic metadata sorting criteria such as file type, date, or file name.",
+    "remembered_summary": "",
+    "forgotten_summary": "exact date, exact location",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "8395cd2a-1c04-4287-853c-83428c8fc181",
+    "text": "Hate the update, no longer able to search without using Gemini, which I also hate. Have disabled Gemini, because I couldn't search anything, without it popping up several times, even though I had already said no, and closed it. *Editing to add, since there's no way to reply to your reply. Ask photos also requires Gemini, so that doesn't help at all. Thanks for nothing 👍🏻",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=56b98d58-f989-4991-bfeb-3e25738a4b89",
+    "date": "2026-09-11T20:47:43",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 54.0,
+    "failure_description": "User cannot perform basic photo searches because search functionality is gated behind the mandatory Gemini / Ask Photos AI integration.",
+    "remembered_summary": "",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "03ca334a-a0b8-4338-b9d7-b646bd169664",
+    "text": "The only reason I was using Photos is because of the image search. Now if I don't continue with Gemini I don't get to have a decade old feature? The search results are worse than how it was on my OG Pixel!",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=af95884a-ef09-48f4-9ef7-9de4efbf7568",
+    "date": "2026-09-11T19:30:02",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 34.0,
+    "failure_description": "The user experiences general search quality degradation and feature gating behind Gemini rather than a specific cognitive query failure.",
+    "remembered_summary": "",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "ef4c2bd4-a812-4b03-ad94-f89260b42098",
+    "text": "the face recognition feature was not turned off, it's still not grouping",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=45044e0f-21c7-4638-8b47-e02b16886015",
+    "date": "2026-09-11T12:33:55",
+    "rating": 3,
+    "categories": [
+      "people_event"
+    ],
+    "category_primary": "people_event",
+    "severity_score": 15.0,
+    "failure_description": "The face recognition feature fails to cluster or group detected faces, preventing retrieval of photos organized by individual people.",
+    "remembered_summary": "emotions: frustrated | visual_cues: faces",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "c7d57afb-2c8a-4cab-bd15-5b7a410675a5",
+    "text": "I just want to see my pics by day, date. I can't even understand what is going on when I try to look at my photos. Please FIX",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=c051d062-8e4e-424a-9c49-d4223d592ddf",
+    "date": "2026-09-11T10:35:18",
+    "rating": 1,
+    "categories": [
+      "temporal_approximation"
+    ],
+    "category_primary": "temporal_approximation",
+    "severity_score": 32.9,
+    "failure_description": "User is unable to navigate or view photos chronologically by specific day and date due to confusing timeline organization.",
+    "remembered_summary": "emotions: frustrated, confused | temporal_cues: day, date",
+    "forgotten_summary": "exact date, exact location, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "6bfea63c-1f85-42c6-bbbf-93b4271f7e71",
+    "text": "Incredibly stupid how it can't find photos from my gallery",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=59acf2e3-6a05-4956-a30a-5f29d22a9222",
+    "date": "2026-09-11T06:56:21",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 30.0,
+    "failure_description": "The user is unable to retrieve photos stored locally on their device gallery due to an indexing or basic search failure.",
+    "remembered_summary": "emotions: frustrated | object_cues: photos from gallery",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "a4a2f102-0103-43be-9a39-2a1ba0f20742",
+    "text": "Difficult to find images",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=a0dea5a1-8ef6-4c3f-a0f7-8db7a8285c5c",
+    "date": "2026-09-10T21:34:04",
+    "rating": 3,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 15.0,
+    "failure_description": "User experiences general difficulty locating photos without specifying the search criteria or memory cues used.",
+    "remembered_summary": "",
+    "forgotten_summary": "exact date, exact location, keywords to search, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "3ea6dea7-e11e-4a78-b3db-cbf266109257",
+    "text": "terrible, totally user unfriendly and useless. l can't find what l need, it keeps pictures l don't want anymore, can't even disable it's permissions.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=54c9ce9a-14d3-4bb2-81d0-cbf572a7d0af",
+    "date": "2026-09-10T21:00:18",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 54.0,
+    "failure_description": "User experiences general retrieval failure and frustration finding desired photos due to clutter from unwanted images and library management issues.",
+    "remembered_summary": "emotions: frustrated",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "f8333b78-d43e-4659-8a3e-bb8143971915",
+    "text": "I can no longer search my photos for people, colors, objects or words (etc). trying to ask Gemini doesn't work and just sends me back to the search page which always yeilds no results.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=b54b49c3-d528-44fb-81a9-ebc909f928af",
+    "date": "2026-09-10T19:01:48",
+    "rating": 3,
+    "categories": [
+      "people_event",
+      "visual_detail",
+      "object_in_scene",
+      "document_screenshot"
+    ],
+    "category_primary": "people_event",
+    "severity_score": 15.0,
+    "failure_description": "User experiences a complete search and Gemini assistant failure when attempting to query by people, visual colors, objects, or in-image text.",
+    "remembered_summary": "people: people | visual_cues: colors | object_cues: objects, words",
+    "forgotten_summary": "exact date, exact location, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "7e38254a-1d56-4378-8c95-654e5ff234bd",
+    "text": "AI on this is the dumbest, sorry. I need an option to search for photos without the use of Artificial Insanity please.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=2db000c9-ad09-45f0-a5bd-4e99dfcc3130",
+    "date": "2026-09-10T13:23:25",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 30.0,
+    "failure_description": "User is frustrated with AI-driven semantic search and requests an option to perform manual, non-algorithmic photo searches.",
+    "remembered_summary": "",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "de76e1c3-2e06-42eb-b11d-58eefc2367f1",
+    "text": "I can't find any of my photos that they took off of my gallery. I hate Google photos. this app takes my well organized photos off of my phone and organizes them in a way that I can't find anything. I don't want their storage. I am afraid to uninstall cus it may delete all of my photos. if I do get them back i will never be able to organize them the way I had them. oh! this makes me so mad. wish i could take googles photos, and scramble them up. HEY GOOGLE! Give me my photos back!",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=03ba0f04-e8ec-42f6-b8c4-b7ad4f484023",
+    "date": "2026-09-10T01:08:07",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 85.6,
+    "failure_description": "The user is unable to retrieve photos because the app disrupts and reorganizes their local folder and album directory structure.",
+    "remembered_summary": "emotions: mad, frustrated, afraid, hateful",
+    "forgotten_summary": "exact date, exact location, keywords to search, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "22265191-863d-4b78-b099-e039b73490d7",
+    "text": "Search used to be effortless, but the latest updates ruined it. It can't locate anything anymore even obvious photos that I know are right there in my library. Frustrating to see a core feature stop working properly. peak enshittification",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=31ab9f12-ffb4-4711-ad73-cc3f4af13a3b",
+    "date": "2026-09-09T23:27:19",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 42.0,
+    "failure_description": "User experiences a broad search regression where previously retrievable, obvious photos can no longer be found.",
+    "remembered_summary": "emotions: frustrated",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "c09791ec-8ada-4a9f-9d3c-6476816d4b86",
+    "text": "edit: I fixed the problem, used an apk to download version 7.90! the last update to the UI has made this app unusable. I cant find any of the photos im looking for, things are no longer grouped by date, some photos dont show up at all in the main grid and now i have to dig in collections to find them, theres so many more issues too. the app worked amazingly before this update, I will look into downloading an older version and recommend others do the same or avoid updating if you havent yet",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=17ff7e6d-5871-4b4a-961b-a8643651fead",
+    "date": "2026-09-09T22:51:29",
+    "rating": 1,
+    "categories": [
+      "emergent",
+      "temporal_approximation"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 34.0,
+    "failure_description": "The user cannot browse or locate photos due to a UI redesign that removed chronological date grouping and hid items from the main feed into collections.",
+    "remembered_summary": "emotions: frustrated | temporal_cues: date grouping",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "4fec847d-b7dc-4101-a672-29904317ce33",
+    "text": "I love it, but please add a direct button to merge face groups. The AI constantly creates multiple albums for the same person due to age or angles. While I know they can theoretically be combined by renaming the group to trigger a suggestion or reassigning photos, it's very unintuitive and frequently fails, leaving duplicated profiles with the exact same name.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=ffd18ead-34a1-40a8-9276-95962eb11d8e",
+    "date": "2026-09-09T20:06:46",
+    "rating": 4,
+    "categories": [
+      "emergent",
+      "people_event"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 7.5,
+    "failure_description": "The face recognition system creates duplicate clusters for the same person due to variations in age or angle, lacking a reliable or direct mechanism to merge split identity profiles.",
+    "remembered_summary": "people: same person across different ages | emotions: frustrated | temporal_cues: different ages | visual_cues: different angles, aging changes",
+    "forgotten_summary": "exact date, exact location, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "aa7b4dec-7816-4f44-a138-d2b0adb616f0",
+    "text": "It's a pain in the neck to find the photos that I need. They are not organized by category as you claim this version would do. I now I have to pay every month? What's up with that? I have so many pictures & now I have to move them somewhere else. followed the steps and still can't find what I need.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=0f9ad393-91cc-45eb-bcc2-4882bfbae5f3",
+    "date": "2026-09-09T08:33:12",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 30.0,
+    "failure_description": "The user is unable to find photos due to the failure of automatic categorization and semantic grouping features.",
+    "remembered_summary": "emotions: frustrated",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "2e306778-4072-4e11-856c-396b93df13e2",
+    "text": "Waste more time trying to dismiss constant nagging to try their AI slop. Why do I pay so much for storage, and then get nagged with some dumb feature nobody wants. Just let me store my photos like I pay for. **After forcing us to use albums instead of folders, search hasn't even worked for years. Want to find a photo or folder with an exact name...doesn't work. It will use useless AI to find a thousand unrelated pictures it thinks are similar instead of the one picture with the exact name.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=699245f6-e958-4faa-a544-ddf42ad66ec3",
+    "date": "2026-09-08T21:38:00",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 42.0,
+    "failure_description": "User attempts to find photos or folders by exact filename or title match, but semantic search overrides exact metadata matching and returns irrelevant visual results.",
+    "remembered_summary": "emotions: frustrated | object_cues: photo with exact name, folder with exact name",
+    "forgotten_summary": "exact date, exact location, album",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "83b853be-24b6-4949-a0df-681f3a4c3add",
+    "text": "Completely messed up the search function. It used to be really simple to search, now there's about 3 more unnecessary steps added for no upside as far as I can see. Please reinstate the old UI.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=9c5b323d-c364-4ee6-89e2-1f981e97761e",
+    "date": "2026-09-08T20:17:52",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 32.2,
+    "failure_description": "The user encounters friction and retrieval failure caused by a UI redesign that introduced extra steps and complexity to the search workflow.",
+    "remembered_summary": "emotions: frustrated",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "a5b4d1f4-579b-44f6-95d8-bd166cb3f9c1",
+    "text": "Lacking image search features and Gemini integration.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=8248e690-792d-4c7d-a6c2-66b6fd2cfd46",
+    "date": "2026-09-08T15:21:27",
+    "rating": 2,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 22.5,
+    "failure_description": "User requests advanced reverse image search capabilities and Gemini AI integration which are not currently supported.",
+    "remembered_summary": "",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "0a663068-2c1b-4439-b7a2-9f4ca386754a",
+    "text": "I don't like how the app constantly rearrange photos, making them very difficult to find. I also don't appreciate the app creating slide shows on its own. For example, the app took pictures of my mom not along after she passed. She was very ill and the pictures were her at her worst. I was shocked the app used the pictures and, without my permission, put together a slide show. It was painful to see. Perhaps there is a way to shut off this feature, but I can't find it. Not a fan of this app",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=4fceb7fc-7f57-4831-bc53-b1faed472b58",
+    "date": "2026-09-08T08:49:22",
+    "rating": 2,
+    "categories": [
+      "emotional_association",
+      "emergent"
+    ],
+    "category_primary": "emotional_association",
+    "severity_score": 46.5,
+    "failure_description": "The system lacks sensitivity to emotional context and user grief by automatically curating and surfacing painful photos of an ill deceased family member in proactive slideshows.",
+    "remembered_summary": "people: mom | emotions: shocked, painful, distressed | temporal_cues: not long before she passed, period when she was very ill | visual_cues: her at her worst, looking very ill | event_context: mom's illness prior to passing",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "e43ca4d5-4739-490a-ba39-f51a6b097c39",
+    "text": "has deleted whole faces without even asking me, and does a terrible job identifying cats. also extremely slow and tedious to try to add to albums/faces",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=1b8553c8-4868-49f3-9ca7-1b4b538137e5",
+    "date": "2026-09-08T04:37:13",
+    "rating": 2,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 34.5,
+    "failure_description": "The user experiences failures with pet recognition (identifying cats) and automated face grouping/clustering management.",
+    "remembered_summary": "emotions: frustrated, tedious | visual_cues: faces, cats | object_cues: cats",
+    "forgotten_summary": "exact date, exact location, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "4c192062-1bb1-4bba-a105-6d2d04598e30",
+    "text": "Love this app. The UI is beautiful. I do wish we could use hash tags to make searching faster.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=5a67af38-c748-4890-a707-e92430be324e",
+    "date": "2026-09-07T17:19:55",
+    "rating": 5,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 0.0,
+    "failure_description": "User desires manual organization and retrieval via custom hashtags or user-defined tags.",
+    "remembered_summary": "",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "ecf3348a-8a56-44d1-a5e0-235029ec9356",
+    "text": "The people & pet grouping and then auto-updating albums are fantastic features, if they actually worked. Has not id'ed a person in months despite being on latest version and reaching out for support. Group similar faces option is on.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=0b28df7f-204b-4744-89e8-33614c354b4f",
+    "date": "2026-09-07T15:22:13",
+    "rating": 2,
+    "categories": [
+      "people_event"
+    ],
+    "category_primary": "people_event",
+    "severity_score": 22.5,
+    "failure_description": "The system fails to detect and cluster faces or update people albums, preventing retrieval and organization by recognized individuals.",
+    "remembered_summary": "people: people, pets | emotions: frustrated | temporal_cues: in months | visual_cues: faces",
+    "forgotten_summary": "exact date, exact location, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "7743dba9-dfea-46c5-b7fd-30a116dac544",
+    "text": "It's terrible, it backs the pics up before I get a chance to edit them, then I can't find then again to save my storage space. Worst app ever, shame on you google. Thanks for the advice on how to use the product correctly . I still have trouble, I just don't whinge about it so openly, anymore.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=90ad0544-cb78-439e-88ca-d02a3b795fb3",
+    "date": "2026-09-07T11:58:29",
+    "rating": 4,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 31.5,
+    "failure_description": "User is unable to locate newly backed-up, unedited photos to review and manage them for storage cleanup.",
+    "remembered_summary": "emotions: frustrated, annoyed | temporal_cues: before editing, recently backed up | visual_cues: unedited photos | event_context: backing up photos, storage management | object_cues: unedited pictures",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "77fbb67b-bbc4-42bb-97c3-b9630c344ad0",
+    "text": "The photos aren't lost, they are 6 yr old photos that are present in the Google Photos Cloud. I restored them to a phone so I may edit them and use them. Restored images are sitting on their original calendar dates instead of the top. How can you expect anyone using a photo editing app or other app to spend time scrolling through 2026 to 2020 images when they have a lot of images? It never used to be like this. Your links are not relevant to the issue. Something changed on the backend. Thanks",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=b83d8437-28ca-4f9d-a453-36dd41556022",
+    "date": "2026-09-07T08:45:28",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 30.0,
+    "failure_description": "Restored photos are indexed strictly by original capture date rather than recency of download or restore, preventing easy access in external apps and requiring tedious timeline scrolling.",
+    "remembered_summary": "emotions: frustrated | temporal_cues: 6 yr old photos, 2020 | event_context: photo editing",
+    "forgotten_summary": "exact date, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "c5cabfaf-14ec-4800-af06-39554dee75ff",
+    "text": "badly needs a way to relabel the image detection like you can with faces. It's completely incompetent. really hope it's an act and behind the scenes it actually works but they don't want to spook people because the photo memories of things like \"sweet treats\" almost never have anything sweet in them, you think just accidentally they'd be right more than this.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=07e0d981-3440-482e-8fe7-a4709f23b6d7",
+    "date": "2026-09-07T04:30:36",
+    "rating": 1,
+    "categories": [
+      "contextual_episodic"
+    ],
+    "category_primary": "contextual_episodic",
+    "severity_score": 30.0,
+    "failure_description": "The system fails to accurately identify thematic content and occasions for curated memories like 'sweet treats', frequently misclassifying photos without matching items or context.",
+    "remembered_summary": "visual_cues: sweet treats | object_cues: sweet treats, desserts/sweets",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "884479dd-048c-4f51-8ac0-628eafa50af8",
+    "text": "I still wish map search was available on the desktop as well as the app. other than that, I'm happy",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=af0e9c19-5c6e-45cf-88a5-e00df719e4f2",
+    "date": "2026-09-07T04:22:59",
+    "rating": 4,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 7.5,
+    "failure_description": "User wants geographic map-based photo search and browsing capabilities supported on the desktop web interface.",
+    "remembered_summary": "",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "376cb91a-7299-48b8-beae-01e6b21d93b6",
+    "text": "I can't find the photos that I need.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=f7610784-f71f-41e5-80ea-c0988dfe1ac1",
+    "date": "2026-09-06T23:40:07",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 30.0,
+    "failure_description": "User reports a general inability to locate needed photos without providing specific search criteria or retrieval context.",
+    "remembered_summary": "emotions: frustrated",
+    "forgotten_summary": "exact date, exact location, keywords to search, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "4985e7db-1054-41f7-a39e-1bb8de007c10",
+    "text": "This app is total trash. with every update. it ruins the ability to search and find photographs. It keeps trying to force AI into managing photographs. The simple act of trying to find a photo on a particular date is impossible. This is total and absolute AI garbage.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=cc304f99-c7d6-4606-a7b2-fc121097f19c",
+    "date": "2026-09-06T16:54:44",
+    "rating": 1,
+    "categories": [
+      "temporal_approximation"
+    ],
+    "category_primary": "temporal_approximation",
+    "severity_score": 54.0,
+    "failure_description": "User is unable to locate photos by specific date due to AI-driven search overriding basic chronological and date-based retrieval.",
+    "remembered_summary": "temporal_cues: particular date",
+    "forgotten_summary": "exact location, album, keywords to search, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "a4aca79a-7ac7-4d94-816f-7d8764a935e9",
+    "text": "Multiple select to share photos broken - only sends some photos now. Face detection broken since October 2025. Trouble loading shots bug - can't work with motion photos Faces aren't being tagged reliably anymore This app is worse than it was 5 years ago! Maybe Google is planning to retire it like they retire everything else.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=5915348f-249b-45c7-9ef6-697a4952fd6c",
+    "date": "2026-09-06T15:05:02",
+    "rating": 1,
+    "categories": [
+      "people_event"
+    ],
+    "category_primary": "people_event",
+    "severity_score": 58.0,
+    "failure_description": "Face detection and automatic tagging are failing, preventing reliable organization and retrieval of photos by person.",
+    "remembered_summary": "emotions: frustrated, disappointed | temporal_cues: October 2025, 5 years ago | visual_cues: faces, motion photos | object_cues: motion photos",
+    "forgotten_summary": "exact date, exact location, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "8cb95479-f630-4e1d-81c3-bd1b01f7b905",
+    "text": "can you find my pictures from 2020 threw 2024",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=5db6ec95-9bfd-41dd-9b7d-9419b2d59ac8",
+    "date": "2026-09-06T06:29:35",
+    "rating": 5,
+    "categories": [
+      "temporal_approximation"
+    ],
+    "category_primary": "temporal_approximation",
+    "severity_score": 0.0,
+    "failure_description": "User wants to search for and retrieve photos spanning a specific multi-year date range from 2020 through 2024.",
+    "remembered_summary": "temporal_cues: 2020 through 2024",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "c3efb14f-468a-4bfe-9a03-ae2a1407569d",
+    "text": "Great editing features. It would be improved hugely if the facial organisation allowed efficient manual rearrangement. Removing faces takes a really long time as well as not being able to delete categories which the app has made which may consist of completely random photos. You also cannot manually add photos to a face which is annoying. The worst feature however is the search function constantly never working and showing blanks for even the suggested search.",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=bd953071-c12e-49d1-9d15-53bd2978a137",
+    "date": "2026-09-06T06:29:20",
+    "rating": 3,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 39.0,
+    "failure_description": "User experiences systemic search breakdown returning blank results even for suggested queries, alongside deficiencies in face cluster management and manual tagging.",
+    "remembered_summary": "emotions: annoyed, frustrated | visual_cues: faces",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "dea50237-d781-4322-b570-6750a89e3d13",
+    "text": "no longer recognize faces or scenes when it is so clear and has so much data for this person already",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=dc1ef762-6e98-4fc2-b9ed-e5ffd87f02c3",
+    "date": "2026-09-06T02:01:21",
+    "rating": 2,
+    "categories": [
+      "people_event",
+      "contextual_episodic"
+    ],
+    "category_primary": "people_event",
+    "severity_score": 22.5,
+    "failure_description": "The system fails to recognize familiar faces and scenes despite clear imagery and extensive historical data for the person.",
+    "remembered_summary": "people: specific person with extensive data | visual_cues: clear face, clear scenes",
+    "forgotten_summary": "exact date, exact location, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "ae05566c-2d73-499a-b502-28634d4640d1",
+    "text": "1/28/2026 MINUS, MINUS ZERO!!! THE CROPPING TOOL IS TERRIBLE 😡😡😡 I ABSOLUTELY HATE THIS NEW UPDATE😡BRING BACK THE OLD GOOGLE PHOTOS!!!! THESE UPDATES GETS WORSE WITH EACH UPDATE!!! 9/6/26. . THE SEARCH. BUTTON SHOULD HAVE NEVER BEEN UPDATED AT ALL IN THE FIRST PLACE. AI CAN NEVER, EVER FIND MY PHOTOS. \"GOOGLE PHOTOS\" UPDATES ARE HORRENDOUS 😲😲😲!!!!!!!! FIRE ai !!!!! FIRE ai !!!!!!!!!!",
+    "source_type": "google_play",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=c8455eda-6e43-4994-9ffd-438d16c1f5d9",
+    "date": "2026-09-05T21:02:29",
+    "rating": 1,
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 70.0,
+    "failure_description": "User experiences a broad regression in search accuracy where the updated AI search model fails to retrieve photos compared to the previous search system.",
+    "remembered_summary": "",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "5b22bbfe-53e8-4885-9f3c-cf84f1547638",
+    "text": "Why can't Google Photos search by atmosphere or vibe? 'Cozy coffee shop rainy day' gives me zero results\n\nI took a photo 2 years ago sitting by the window in a quiet café in Seattle while it was pouring outside. I remember the warm string lights, steam from my latte mug, and rain streaks on the window. When I type 'coffee shop rainy day' or 'rainy coffee shop Seattle' it brings up random pictures of rain in my backyard and a Starbucks receipt. It completely fails to understand the scene context!",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/12a1b1/why_cant_google_photos_search_by_atmosphere/",
+    "date": "2024-11-12T14:32:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "contextual_episodic"
+    ],
+    "category_primary": "contextual_episodic",
+    "severity_score": 16.0,
+    "failure_description": "The search engine fails to capture the narrative atmosphere and situational context of a 'cozy rainy coffee shop', instead returning literal, disconnected results like backyard rain or receipts.",
+    "remembered_summary": "emotions: cozy, quiet, warm | temporal_cues: 2 years ago, rainy day | location_cues: Seattle, quiet café, by the window | visual_cues: warm string lights, steam from latte mug, rain streaks on the window, pouring rain outside | event_context: sitting by the window in a café while it was pouring outside | object_cues: string lights, latte mug, window",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": "Cozy coffee shop rainy day, coffee shop rainy day, rainy coffee shop Seattle"
+  },
+  {
+    "quote_id": "0274535d-6950-47b6-9c6b-a3e9657b06e4",
+    "text": "Same issue here. I tried searching 'sunny picnic in the park with red blanket' and it showed photos of red cars. Google Photos AI is good at object tags ('coffee cup', 'dog') but terrible at understanding narrative memory or context.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/12a1b1/why_cant_google_photos_search_by_atmosphere/comment_0",
+    "date": "2024-11-12T14:32:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "contextual_episodic",
+      "visual_detail"
+    ],
+    "category_primary": "contextual_episodic",
+    "severity_score": 30.0,
+    "failure_description": "The search engine failed to capture the contextual scene of a sunny picnic and conflated a specific visual attribute ('red blanket') with unrelated red objects.",
+    "remembered_summary": "temporal_cues: sunny | location_cues: park | visual_cues: sunny, red blanket | event_context: picnic | object_cues: red blanket",
+    "forgotten_summary": "exact date, exact location, file name",
+    "keywords_tried": "sunny picnic in the park with red blanket"
+  },
+  {
+    "quote_id": "41f17869-41cb-43a6-b9d4-30ea072b0c41",
+    "text": "I spent 45 minutes scrolling through 2022 trying to find my anniversary dinner photo because I only remember the candlelit table and dimmed lighting, but search only knows 'table' or 'restaurant' which brings up 500 work lunch pictures.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/12a1b1/why_cant_google_photos_search_by_atmosphere/comment_1",
+    "date": "2024-11-12T14:32:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "contextual_episodic",
+      "visual_detail"
+    ],
+    "category_primary": "contextual_episodic",
+    "severity_score": 12.0,
+    "failure_description": "User struggled to find an anniversary dinner photo using atmospheric and lighting cues like 'candlelit' and 'dimmed lighting' because the search system only indexed generic object nouns like 'table' and 'restaurant'.",
+    "remembered_summary": "emotions: romantic | temporal_cues: 2022 | location_cues: restaurant | visual_cues: candlelit table, dimmed lighting | event_context: anniversary dinner | object_cues: table, candle",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": "table, restaurant"
+  },
+  {
+    "quote_id": "f8b58680-209f-4e1f-994b-7cd859b181f9",
+    "text": "This is what drives me crazy. Our human memory recalls how an event felt or the situation (e.g. 'breakfast after my morning hike') but search only accepts literal nouns like 'pancake'.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/12a1b1/why_cant_google_photos_search_by_atmosphere/comment_2",
+    "date": "2024-11-12T14:32:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "contextual_episodic"
+    ],
+    "category_primary": "contextual_episodic",
+    "severity_score": 30.0,
+    "failure_description": "User searches based on situational and episodic context ('breakfast after my morning hike') rather than discrete literal object labels.",
+    "remembered_summary": "emotions: how an event felt | temporal_cues: morning | event_context: breakfast after my morning hike, morning hike, breakfast | object_cues: pancake",
+    "forgotten_summary": "exact date, exact location, keywords to search, file name",
+    "keywords_tried": "breakfast after my morning hike, pancake"
+  },
+  {
+    "quote_id": "9c65dc91-39c1-4e93-8716-1974058ff056",
+    "text": "Search by date is completely broken when I don't know the exact year or month\n\nI know I went to that concert sometime in late autumn between 2017 and 2019. If I search 'concert fall 2018' or 'outdoor music festival autumn', it gives nothing. I literally have to manually scroll through 3 years of thumbnails hoping my eyes catch the stage lighting. Why can't I search 'concert in October or November around 2018'?",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/13b2c2/search_by_date_is_completely_broken_temporal/",
+    "date": "2024-10-05T09:15:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "temporal_approximation"
+    ],
+    "category_primary": "temporal_approximation",
+    "severity_score": 30.0,
+    "failure_description": "The user is unable to retrieve concert photos using approximate seasonal and multi-year timeframes like 'late autumn between 2017 and 2019'.",
+    "remembered_summary": "temporal_cues: late autumn between 2017 and 2019, fall 2018, October or November around 2018 | location_cues: outdoor | visual_cues: stage lighting | event_context: concert, outdoor music festival",
+    "forgotten_summary": "exact date, exact location, file name",
+    "keywords_tried": "concert fall 2018, outdoor music festival autumn"
+  },
+  {
+    "quote_id": "a26714e7-5411-4d43-8b5b-d307185ebd90",
+    "text": "Temporal search is so rigid. You either type 'October 2018' or nothing. Humans don't remember timestamps, we remember 'about 5 years ago around Thanksgiving'.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/13b2c2/search_by_date_is_completely_broken_temporal/comment_0",
+    "date": "2024-10-05T09:15:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "temporal_approximation"
+    ],
+    "category_primary": "temporal_approximation",
+    "severity_score": 12.0,
+    "failure_description": "The search system fails to support relative or approximate temporal queries like 'about 5 years ago around Thanksgiving', rigidly requiring exact calendar dates.",
+    "remembered_summary": "temporal_cues: about 5 years ago, around Thanksgiving | event_context: Thanksgiving",
+    "forgotten_summary": "exact date, keywords to search",
+    "keywords_tried": "October 2018"
+  },
+  {
+    "quote_id": "d55119ad-e723-458c-a32f-4f8ca93b1aa7",
+    "text": "Also when you travel across timezones, the timestamps get messed up and photos from the same evening get split across different days in the timeline.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/13b2c2/search_by_date_is_completely_broken_temporal/comment_1",
+    "date": "2024-10-05T09:15:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "temporal_approximation"
+    ],
+    "category_primary": "temporal_approximation",
+    "severity_score": 12.0,
+    "failure_description": "Photos taken during the same evening are split across different timeline dates due to timezone shifts and improper timestamp handling.",
+    "remembered_summary": "temporal_cues: same evening, evening | location_cues: across timezones | event_context: traveling across timezones, travel",
+    "forgotten_summary": "exact date, exact location",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "e547e4a0-e043-4781-b587-3811931663b8",
+    "text": "Searching for a specific visual detail is impossible (e.g. 'yellow vintage suitcase in hotel room')\n\nI took a photo of my luggage tag on a bright mustard yellow vintage suitcase inside a hotel room. Searching 'yellow suitcase' shows yellow flowers, yellow t-shirts, and my friend's yellow car. It doesn't pinpoint the suitcase at all. I had to scroll back through 10,000 photos to find it.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/14c3d3/searching_for_visual_detail_is_impossible/",
+    "date": "2024-09-20T18:40:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "visual_detail"
+    ],
+    "category_primary": "visual_detail",
+    "severity_score": 30.0,
+    "failure_description": "User searched for a specific colored object ('yellow suitcase') but the system only matched the color to unrelated objects rather than identifying the suitcase.",
+    "remembered_summary": "location_cues: hotel room | visual_cues: bright mustard yellow, vintage | object_cues: luggage tag, vintage suitcase",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": "yellow suitcase, yellow vintage suitcase in hotel room"
+  },
+  {
+    "quote_id": "205e0de2-0afe-41e1-94f8-d0a334a1847c",
+    "text": "Color search in Google Photos is the worst. If I search 'blue dress', it matches any photo that has a blue sky in the background!",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/14c3d3/searching_for_visual_detail_is_impossible/comment_0",
+    "date": "2024-09-20T18:40:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "visual_detail"
+    ],
+    "category_primary": "visual_detail",
+    "severity_score": 34.0,
+    "failure_description": "The search system fails to correctly bind the color attribute to the specified clothing item, returning photos with dominant background colors like blue sky instead of a blue dress.",
+    "remembered_summary": "visual_cues: blue dress | object_cues: blue dress",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": "blue dress"
+  },
+  {
+    "quote_id": "022ee0c7-4803-4317-a1cf-46185419245f",
+    "text": "I was searching for a picture of my dog wearing a red bandana. Search 'dog red bandana' showed every photo of my dog (over 800 photos) and highlighted random red objects in other photos.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/14c3d3/searching_for_visual_detail_is_impossible/comment_1",
+    "date": "2024-09-20T18:40:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "visual_detail"
+    ],
+    "category_primary": "visual_detail",
+    "severity_score": 12.0,
+    "failure_description": "The search failed to associate a specific visual attribute (red bandana) with the subject (dog), returning all photos of the dog instead of filtering by the clothing item.",
+    "remembered_summary": "visual_cues: dog wearing a red bandana, red bandana | object_cues: red bandana, dog",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": "dog red bandana"
+  },
+  {
+    "quote_id": "2f157ee3-1872-4bc3-a661-20816d1234f2",
+    "text": "People + Event combinations fail constantly. 'Dave and Sarah wedding' brings up every photo of Dave ever taken\n\nI wanted to find the photo where my brother Dave and his fiancée Sarah were dancing at Mark's wedding in 2021. Both Dave and Sarah have named face clusters. When I search 'Dave Sarah wedding', instead of showing photos containing both of them in formal attire or wedding settings, it just dumps every single photo of Dave from 2015 to 2024. The co-occurrence logic is non-existent.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/15d4e4/people_event_combinations_fail_constantly/",
+    "date": "2024-12-01T11:05:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "people_event"
+    ],
+    "category_primary": "people_event",
+    "severity_score": 30.0,
+    "failure_description": "The search engine failed to perform co-occurrence and event filtering for multiple named people at a specific wedding, instead dumping all historical photos of a single individual.",
+    "remembered_summary": "people: brother Dave, fiancée Sarah, Mark | temporal_cues: 2021 | visual_cues: dancing, formal attire | event_context: Mark's wedding, dancing at wedding",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": "Dave and Sarah wedding, Dave Sarah wedding"
+  },
+  {
+    "quote_id": "ee203c6d-0548-49c3-ae73-c4b5e4972dfa",
+    "text": "Yes! It performs an OR search instead of an AND search, or it completely ignores the event keyword 'wedding'.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/15d4e4/people_event_combinations_fail_constantly/comment_0",
+    "date": "2024-12-01T11:05:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "people_event"
+    ],
+    "category_primary": "people_event",
+    "severity_score": 20.2,
+    "failure_description": "The search engine fails co-occurrence conjunction logic by executing an OR search or completely ignoring an event descriptor like 'wedding'.",
+    "remembered_summary": "event_context: wedding",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": "wedding"
+  },
+  {
+    "quote_id": "fc4fee95-5a95-4d00-a7dd-d83b0135323b",
+    "text": "Try searching 'Mom and Dad Christmas'. It gives me 1,200 photos of Mom, half of which Dad isn't in, and half aren't even during Christmas.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/15d4e4/people_event_combinations_fail_constantly/comment_1",
+    "date": "2024-12-01T11:05:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "people_event"
+    ],
+    "category_primary": "people_event",
+    "severity_score": 12.0,
+    "failure_description": "The search fails to enforce co-occurrence logic for multiple people and an event, returning individual photos of one person outside the specified holiday.",
+    "remembered_summary": "people: Mom, Dad | temporal_cues: Christmas | event_context: Christmas",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": "Mom and Dad Christmas"
+  },
+  {
+    "quote_id": "04dc4661-d10c-4aff-842c-8046a6362c4f",
+    "text": "Face recognition is amazing in isolation, but query composition where you combine faces + activities + setting is totally broken.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/15d4e4/people_event_combinations_fail_constantly/comment_2",
+    "date": "2024-12-01T11:05:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "people_event",
+      "contextual_episodic"
+    ],
+    "category_primary": "people_event",
+    "severity_score": 30.0,
+    "failure_description": "The search engine fails to handle composite queries combining recognized individuals with specific activities and situational settings.",
+    "remembered_summary": "people: people (faces) | location_cues: setting | event_context: activities",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "7d7d8861-c89b-48f7-984c-815a5c8120ae",
+    "text": "Can't find a picture of a receipt / warranty serial number I snapped 6 months ago\n\nI bought a refrigerator last year and took a photo of the appliance model sticker and the paper receipt from Home Depot. I tried searching 'Home Depot receipt', 'refrigerator serial number', 'appliance sticker', 'model number'. Zero results. The OCR in Google Photos seems to only index words if the image looks like a clean document, not if it's a photo taken under kitchen lighting.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/16e5f5/cant_find_picture_of_receipt_warranty_serial/",
+    "date": "2024-08-14T20:10:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "document_screenshot"
+    ],
+    "category_primary": "document_screenshot",
+    "severity_score": 13.0,
+    "failure_description": "OCR failed to recognize and retrieve photos of a receipt and appliance serial number sticker captured under casual lighting conditions.",
+    "remembered_summary": "temporal_cues: 6 months ago, last year | location_cues: kitchen | visual_cues: kitchen lighting, not a clean document | event_context: bought a refrigerator | object_cues: receipt, warranty serial number, refrigerator, appliance model sticker, paper receipt from Home Depot",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": "Home Depot receipt, refrigerator serial number, appliance sticker, model number"
+  },
+  {
+    "quote_id": "66b30c29-def7-4539-807f-2343fe42ad00",
+    "text": "OCR search in Google Photos is so hit-or-miss. It will find a sign in the background of a street photo, but fail to find text on a clearly visible handwritten note or store receipt.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/16e5f5/cant_find_picture_of_receipt_warranty_serial/comment_0",
+    "date": "2024-08-14T20:10:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "document_screenshot"
+    ],
+    "category_primary": "document_screenshot",
+    "severity_score": 32.4,
+    "failure_description": "OCR text extraction fails to reliably index and retrieve readable handwritten notes and store receipts.",
+    "remembered_summary": "emotions: frustrated | location_cues: street | visual_cues: sign in the background, clearly visible text | object_cues: sign, handwritten note, store receipt",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "073c9347-aa78-48dd-865e-76a2f0f206e9",
+    "text": "I ended up creating an album called 'Receipts and Documents' because searching for screenshots or documents is a nightmare.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/16e5f5/cant_find_picture_of_receipt_warranty_serial/comment_1",
+    "date": "2024-08-14T20:10:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "document_screenshot"
+    ],
+    "category_primary": "document_screenshot",
+    "severity_score": 30.0,
+    "failure_description": "User struggled to reliably search for and retrieve receipts, documents, and screenshots, resorting to a manual album workaround.",
+    "remembered_summary": "emotions: frustrated | object_cues: receipts, documents, screenshots",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "5e44f9e4-142e-401d-a843-9821619fc0ef",
+    "text": "Same with parking tickets or parking garage level photos. I take a picture of 'Section 4B Blue Level' so I remember where I parked. Searching 'parking' 3 hours later shows airport runways!",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/16e5f5/cant_find_picture_of_receipt_warranty_serial/comment_2",
+    "date": "2024-08-14T20:10:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "document_screenshot"
+    ],
+    "category_primary": "document_screenshot",
+    "severity_score": 16.0,
+    "failure_description": "The user cannot retrieve utility photos of parking garage levels or tickets using search terms like 'parking', resulting in unrelated results.",
+    "remembered_summary": "temporal_cues: 3 hours ago, same day | location_cues: parking garage | visual_cues: Section 4B Blue Level, blue | event_context: parking the car | object_cues: parking tickets, parking garage level sign",
+    "forgotten_summary": "exact location, album, keywords to search, file name",
+    "keywords_tried": "parking"
+  },
+  {
+    "quote_id": "c5d93763-bbf7-4d49-bb31-dcf20e0e9859",
+    "text": "Searching for secondary objects in the background (not the main subject)\n\nI remember taking a picture of my kid playing in the living room, and in the background on the coffee table was a book my grandmother gave me. I wanted to see the book cover title. Searching 'book' or 'living room book' only shows pictures where a book fills the entire frame. If an object is secondary in the background, Google Photos search completely overlooks it.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/17f6g6/searching_for_secondary_objects_in_background/",
+    "date": "2024-07-28T16:22:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "object_in_scene"
+    ],
+    "category_primary": "object_in_scene",
+    "severity_score": 12.0,
+    "failure_description": "The search engine only prioritizes primary focal subjects and fails to detect or retrieve incidental, secondary objects located in the background.",
+    "remembered_summary": "people: kid | location_cues: living room, coffee table, background | visual_cues: kid playing, book in background on coffee table, book cover title | event_context: kid playing in the living room | object_cues: book, coffee table",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": "book, living room book"
+  },
+  {
+    "quote_id": "da6f576a-2fdd-44c4-9003-c3ed6858bcc5",
+    "text": "This is such a common failure mode. User remembers an incidental detail: 'my brother holding a green water bottle', but the AI only tagged 'person, smiling, indoor'.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/17f6g6/searching_for_secondary_objects_in_background/comment_0",
+    "date": "2024-07-28T16:22:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "object_in_scene",
+      "visual_detail"
+    ],
+    "category_primary": "object_in_scene",
+    "severity_score": 12.0,
+    "failure_description": "The system only tags generic high-level labels and fails to index an incidental object and its visual attributes, such as a green water bottle held by a subject.",
+    "remembered_summary": "people: brother | visual_cues: holding a green water bottle, green | object_cues: green water bottle",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": "my brother holding a green water bottle"
+  },
+  {
+    "quote_id": "3b8a46c2-b04c-4812-a7e5-3672a5fd8b0e",
+    "text": "I had a similar issue trying to find the paint color on our dining room wall from a photo of Christmas dinner. Couldn't find it without scrolling.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/17f6g6/searching_for_secondary_objects_in_background/comment_1",
+    "date": "2024-07-28T16:22:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "visual_detail",
+      "object_in_scene"
+    ],
+    "category_primary": "visual_detail",
+    "severity_score": 12.0,
+    "failure_description": "The user was unable to find a photo showing the background dining room wall paint color taken during a Christmas dinner event.",
+    "remembered_summary": "temporal_cues: Christmas | location_cues: dining room | visual_cues: paint color on wall | event_context: Christmas dinner | object_cues: wall",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "1d8949e3-975a-44b0-add4-c9ae4fa0a416",
+    "text": "Google Photos search makes me want to switch back to local folders on my PC\n\nI have 45,000 photos in Google Photos spanning 12 years. Finding anything specific is becoming an ordeal. The search bar promises 'search anything' but in reality if you don't remember the exact city or year, you're doomed. What happened to semantic understanding? It feels like search hasn't improved since 2018.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/18g7h7/google_photos_search_makes_me_want_to_switch/",
+    "date": "2025-01-10T13:45:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "temporal_approximation",
+      "contextual_episodic"
+    ],
+    "category_primary": "temporal_approximation",
+    "severity_score": 12.0,
+    "failure_description": "User struggles to locate photos across a large multi-year library because the system relies on exact years and locations rather than supporting semantic, contextual, or approximate temporal queries.",
+    "remembered_summary": "emotions: frustrated",
+    "forgotten_summary": "exact date, exact location, keywords to search",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "271ad71d-e087-4ccf-be38-006bdbb04d96",
+    "text": "I'm considering exporting everything to Apple Photos or Immich. Immich with CLIP search actually finds complex queries much better than Google Photos.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/18g7h7/google_photos_search_makes_me_want_to_switch/comment_0",
+    "date": "2025-01-10T13:45:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "contextual_episodic"
+    ],
+    "category_primary": "contextual_episodic",
+    "severity_score": 45.6,
+    "failure_description": "User notes that Google Photos struggles with complex semantic and open-vocabulary natural language queries compared to vector/CLIP-based search systems.",
+    "remembered_summary": "",
+    "forgotten_summary": "",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "fe36efbd-1ab4-4277-81c3-a4b358a761c6",
+    "text": "Lost my grandfather's handwritten recipe card photo in a sea of food pictures\n\nA few years ago my grandpa wrote down his secret marinara sauce recipe on an index card. I took a photo of it. When I search 'recipe' or 'handwritten' or 'pasta card' or 'index card', Google Photos shows 300 plates of spaghetti and pizza I ate at restaurants, but NOT the photo of the recipe card. How do I find this without manual scrolling?",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/19h8i8/lost_my_grandfathers_handwritten_recipe_card/",
+    "date": "2025-02-04T17:30:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "document_screenshot"
+    ],
+    "category_primary": "document_screenshot",
+    "severity_score": 13.0,
+    "failure_description": "User is searching for a photo of a handwritten recipe on an index card, but search returns food dishes instead of recognizing and retrieving the handwritten document.",
+    "remembered_summary": "people: grandfather, grandpa | temporal_cues: a few years ago | visual_cues: handwritten, index card | event_context: grandpa writing down his secret recipe | object_cues: recipe card, handwritten index card, marinara sauce recipe",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": "recipe, handwritten, pasta card, index card"
+  },
+  {
+    "quote_id": "a95d7f35-bd5c-4e53-8e00-fa0ef98f5e0d",
+    "text": "Have you tried searching 'text' or 'paper'? Sometimes that works, but yeah, Google Photos struggles to distinguish handwritten notes from restaurant food menus.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/19h8i8/lost_my_grandfathers_handwritten_recipe_card/comment_0",
+    "date": "2025-02-04T17:30:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "document_screenshot"
+    ],
+    "category_primary": "document_screenshot",
+    "severity_score": 12.0,
+    "failure_description": "The search system fails to accurately distinguish between specific document types, conflating handwritten notes with restaurant menus.",
+    "remembered_summary": "visual_cues: handwritten | object_cues: handwritten notes, restaurant food menus, paper, text",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": "text, paper"
+  },
+  {
+    "quote_id": "0923c256-21f4-4472-b7cd-f42a931d2764",
+    "text": "I had the exact same experience with an old postcard. Food search is way over-sensitive to any culinary keyword.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/19h8i8/lost_my_grandfathers_handwritten_recipe_card/comment_1",
+    "date": "2025-02-04T17:30:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "document_screenshot"
+    ],
+    "category_primary": "document_screenshot",
+    "severity_score": 12.0,
+    "failure_description": "The system exhibited over-sensitive semantic matching, incorrectly categorizing or indexing an old postcard under food-related search keywords.",
+    "remembered_summary": "temporal_cues: old | object_cues: postcard, old postcard",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "6bd44a1d-0001-49ba-9008-650b3037e0e6",
+    "text": "Trip photos from a road trip: searching by route or stops is impossible\n\nTook a road trip from Denver to Moab. We stopped at a random quirky diner shaped like a spaceship or teapot. I don't remember the town name or date, just that it was midway on the drive. Searching 'road trip diner' or 'quirky diner Colorado Utah' returns nothing. The map view in Google Photos is clumsy because you have to zoom into every tiny highway pin.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/1ai9j9/trip_photos_from_a_road_trip_searching_by_route/",
+    "date": "2024-06-18T10:00:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "emergent",
+      "contextual_episodic"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 30.0,
+    "failure_description": "User is unable to retrieve photos based on a travel route or stops along a road trip corridor without knowing specific dates or town names.",
+    "remembered_summary": "emotions: quirky | location_cues: road trip from Denver to Moab, midway on the drive, Colorado, Utah, random quirky diner | visual_cues: shaped like a spaceship or teapot | event_context: road trip, road trip from Denver to Moab, stopped at a diner | object_cues: diner shaped like a spaceship or teapot",
+    "forgotten_summary": "exact date, exact location, keywords to search",
+    "keywords_tried": "road trip diner, quirky diner Colorado Utah"
+  },
+  {
+    "quote_id": "d9eae310-5f91-42d4-a5d7-ef04f657a550",
+    "text": "Searching for emotion or mood: 'funny face', 'crying baby', 'laughing together'\n\nMy daughter made this hilarious goofy face with spaghetti on her head when she was a toddler. Searching 'funny face' or 'silly face' or 'laughing' gives generic smiling portraits. It has no semantic grasp of humor, chaos, or candid emotional moments. It treats every smile identically.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/1bj0k0/searching_for_emotion_or_mood_funny_face_crying/",
+    "date": "2025-01-22T08:15:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "emotional_association"
+    ],
+    "category_primary": "emotional_association",
+    "severity_score": 12.0,
+    "failure_description": "The search engine fails to recognize humorous, candid, or exaggerated facial expressions, returning generic smiling portraits instead of specific emotional moments.",
+    "remembered_summary": "people: daughter | emotions: hilarious, goofy, humor, chaos, candid | temporal_cues: when she was a toddler | visual_cues: goofy face, spaghetti on her head | object_cues: spaghetti",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": "funny face, silly face, laughing, crying baby, laughing together"
+  },
+  {
+    "quote_id": "d244407b-56e2-4d91-861e-d25e66a1026a",
+    "text": "Candid vs posed is a huge blind spot. I want to find genuine laughter or emotional moments from our wedding, not the 200 posed formal group shots.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/1bj0k0/searching_for_emotion_or_mood_funny_face_crying/comment_0",
+    "date": "2025-01-22T08:15:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "emotional_association"
+    ],
+    "category_primary": "emotional_association",
+    "severity_score": 12.0,
+    "failure_description": "The user is unable to retrieve candid emotional moments and genuine laughter from their wedding because search cannot differentiate candid shots from posed formal portraits.",
+    "remembered_summary": "emotions: genuine laughter, emotional moments | visual_cues: candid, not posed formal group shots | event_context: wedding",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "e3c06432-74bc-48c0-8b50-3352f6876583",
+    "text": "Google Photos prioritizes high technical quality (in focus, bright lighting, centered face) which means candid blurry hilarious memories are buried.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/1bj0k0/searching_for_emotion_or_mood_funny_face_crying/comment_1",
+    "date": "2025-01-22T08:15:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "emotional_association"
+    ],
+    "category_primary": "emotional_association",
+    "severity_score": 12.0,
+    "failure_description": "Google Photos prioritizes technically polished and centered shots, burying spontaneous, candid, and hilarious emotional moments.",
+    "remembered_summary": "emotions: hilarious | visual_cues: candid, blurry",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "96cdc8d3-4e41-4216-983b-782e7ccc87f5",
+    "text": "Whiteboard notes from brainstorming sessions are unfindable unless you remember the month\n\nAt work we take photos of whiteboards after sprint planning. When I search 'whiteboard' or 'architecture diagram', Google Photos shows whiteboards from 5 years ago mixed with pictures of white walls and notebook pages. Searching for words written on the board like 'Kubernetes migration' fails 80% of the time because the marker glare messes up OCR.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/1ck1l1/whiteboard_notes_from_brainstorming_unfindable/",
+    "date": "2024-11-01T15:20:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "document_screenshot"
+    ],
+    "category_primary": "document_screenshot",
+    "severity_score": 13.2,
+    "failure_description": "User is unable to locate work whiteboard notes because OCR fails to index handwritten text due to glare and keyword searches return irrelevant documents or historical images.",
+    "remembered_summary": "location_cues: work | visual_cues: marker glare, architecture diagram, handwritten marker text | event_context: brainstorming sessions, sprint planning | object_cues: whiteboard notes, whiteboards, Kubernetes migration text",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": "whiteboard, architecture diagram, Kubernetes migration"
+  },
+  {
+    "quote_id": "36698876-c646-45f7-a15e-504731b00e39",
+    "text": "I have about 80 whiteboard photos. If I search 'whiteboard 2023' it doesn't even filter properly by year.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/1ck1l1/whiteboard_notes_from_brainstorming_unfindable/comment_1",
+    "date": "2024-11-01T15:20:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "document_screenshot",
+      "temporal_approximation"
+    ],
+    "category_primary": "document_screenshot",
+    "severity_score": 12.0,
+    "failure_description": "The search failed to correctly filter whiteboard document photos when combined with a year-based temporal query.",
+    "remembered_summary": "temporal_cues: 2023 | object_cues: whiteboard",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": "whiteboard 2023"
+  },
+  {
+    "quote_id": "e49bd2f8-a2eb-4b9f-b660-8b510bd1abca",
+    "text": "Finding photos of a pet before and after an adoption or surgery\n\nOur rescue golden retriever had a severe limp and shaved leg when we adopted him in summer 2020. I wanted to show the vet how his leg looked back then versus now. Searching 'dog shaved leg' or 'dog surgery 2020' returned every photo of my dog ever taken. Face recognition grouped him, but attribute-level search across the pet's timeline is completely missing.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/1dl2m2/finding_photos_of_pet_before_after_surgery/",
+    "date": "2024-09-12T12:00:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "emergent",
+      "visual_detail"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 12.0,
+    "failure_description": "The system grouped the pet by facial recognition but failed to support pet attribute and visual condition search, such as a shaved leg or post-surgery appearance.",
+    "remembered_summary": "temporal_cues: summer 2020, when we adopted him | visual_cues: rescue golden retriever, severe limp, shaved leg | event_context: pet adoption, dog surgery, showing the vet",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": "dog shaved leg, dog surgery 2020"
+  },
+  {
+    "quote_id": "93b948e7-15cd-45f5-9bb0-03229fdaae2f",
+    "text": "Pet tagging is great for identity, but terrible for specific pet memories. Try finding 'dog at the beach' when you live near a beach.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/1dl2m2/finding_photos_of_pet_before_after_surgery/comment_0",
+    "date": "2024-09-12T12:00:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "contextual_episodic",
+      "emergent"
+    ],
+    "category_primary": "contextual_episodic",
+    "severity_score": 30.0,
+    "failure_description": "User is unable to retrieve specific episodic memories of a tagged pet at a frequent location due to lack of distinct contextual and activity filtering beyond basic entity tagging.",
+    "remembered_summary": "location_cues: beach | visual_cues: dog at the beach | event_context: taking dog to the beach | object_cues: dog",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": "dog at the beach"
+  },
+  {
+    "quote_id": "ab2f2269-f9d5-424c-8cd7-69ae313db96c",
+    "text": "I couldn't find the photo of my cat sleeping in a shoe box. Searching 'cat box' showed Amazon delivery boxes on my porch.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/1dl2m2/finding_photos_of_pet_before_after_surgery/comment_1",
+    "date": "2024-09-12T12:00:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "contextual_episodic",
+      "object_in_scene"
+    ],
+    "category_primary": "contextual_episodic",
+    "severity_score": 12.0,
+    "failure_description": "The search failed to recognize the episodic scene and relational context of a cat sleeping inside a shoe box, matching literal delivery boxes instead.",
+    "remembered_summary": "visual_cues: cat sleeping in a shoe box, sleeping cat | object_cues: cat, shoe box",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": "cat box"
+  },
+  {
+    "quote_id": "d6b68ab1-0e5f-4e4f-bec3-2afa6310cdb4",
+    "text": "Vaccination cards and COVID records disappeared into the photo abyss\n\nWhenever I travel internationally I need my vaccination card photo. I search 'vaccine card', 'CDC card', 'vaccination record', 'immunization'. Nothing comes up. I end up having to scroll back to March 2021 manually. Why doesn't Google Photos recognize important health or identification documents and give them a quick access shelf?",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/1em3n3/vaccination_cards_and_records_in_photo_abyss/",
+    "date": "2025-01-05T19:40:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "document_screenshot"
+    ],
+    "category_primary": "document_screenshot",
+    "severity_score": 14.7,
+    "failure_description": "User is unable to locate photos of health documents like their COVID vaccination card using relevant keywords due to missing document recognition or OCR indexing.",
+    "remembered_summary": "temporal_cues: March 2021 | event_context: traveling internationally | object_cues: vaccination card, COVID records, CDC card, health or identification documents",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": "vaccine card, CDC card, vaccination record, immunization"
+  },
+  {
+    "quote_id": "84025ae2-f3a5-4c2d-9145-e5e0790367bc",
+    "text": "They have 'Documents' category under Search -> Categories, but it lumps together parking meters, receipts, screenshots of memes, and tax forms.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/1em3n3/vaccination_cards_and_records_in_photo_abyss/comment_0",
+    "date": "2025-01-05T19:40:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "document_screenshot"
+    ],
+    "category_primary": "document_screenshot",
+    "severity_score": 12.0,
+    "failure_description": "The system groups overly disparate items such as receipts, tax forms, parking meters, and memes into a single generic 'Documents' category without adequate sub-categorization or filtering.",
+    "remembered_summary": "object_cues: parking meters, receipts, screenshots of memes, tax forms",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "0091d816-aff1-4257-a309-d959d7dce9b8",
+    "text": "The document classification is way too coarse. A meme screenshot should not be in the same bucket as an official passport or vaccination card.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/1em3n3/vaccination_cards_and_records_in_photo_abyss/comment_1",
+    "date": "2025-01-05T19:40:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "document_screenshot"
+    ],
+    "category_primary": "document_screenshot",
+    "severity_score": 12.0,
+    "failure_description": "Document categorization is overly broad, failing to distinguish between informal meme screenshots and critical official documents like passports or vaccination cards.",
+    "remembered_summary": "emotions: frustrated | visual_cues: meme screenshot | object_cues: meme screenshot, passport, vaccination card",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "0021a58b-f8c6-4527-807a-e24780ce5469",
+    "text": "Trying to find a photo where someone was wearing a specific outfit (e.g. green graduation gown)\n\nMy cousin graduated college in May 2019. I wanted to find the picture where she was wearing her bright forest green graduation cap and gown hugging our grandfather. Searching 'cousin green gown graduation' gave 0 results. Searching 'cousin graduation' gave photos from her high school graduation in 2015. Outfit color + event + person is such a natural way humans remember things, why can't AI handle it?",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/1fn4o4/trying_to_find_photo_by_specific_outfit_color/",
+    "date": "2024-12-19T21:10:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "visual_detail",
+      "people_event"
+    ],
+    "category_primary": "visual_detail",
+    "severity_score": 12.0,
+    "failure_description": "The user failed to retrieve a photo combining specific clothing color details (green graduation gown) with people and an event (cousin hugging grandfather at college graduation).",
+    "remembered_summary": "people: cousin, grandfather | temporal_cues: May 2019, college graduation | visual_cues: bright forest green graduation cap and gown, hugging grandfather | event_context: college graduation | object_cues: graduation cap and gown",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": "cousin green gown graduation, cousin graduation"
+  },
+  {
+    "quote_id": "3ee1d194-f842-46b5-b7eb-90e53728b889",
+    "text": "Color attributes on clothing are one of the strongest visual anchors in human memory. 'I was wearing my black leather jacket', 'she had a yellow sundress'. Google Photos completely ignores clothing color in multi-modal search.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/1fn4o4/trying_to_find_photo_by_specific_outfit_color/comment_0",
+    "date": "2024-12-19T21:10:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "visual_detail"
+    ],
+    "category_primary": "visual_detail",
+    "severity_score": 12.0,
+    "failure_description": "The search system fails to recognize and retrieve photos based on clothing item and color attributes recalled by the user.",
+    "remembered_summary": "people: self, she | visual_cues: black leather jacket, yellow sundress, clothing color | object_cues: black leather jacket, yellow sundress",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": "black leather jacket, yellow sundress"
+  },
+  {
+    "quote_id": "01c18099-5efb-4585-983d-2790f2b88e50",
+    "text": "Whenever I describe a photo to someone, the first thing I say is 'remember what we were wearing?'. Search engines are built around object nouns, not human episodic memory.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/1fn4o4/trying_to_find_photo_by_specific_outfit_color/comment_1",
+    "date": "2024-12-19T21:10:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "visual_detail",
+      "contextual_episodic"
+    ],
+    "category_primary": "visual_detail",
+    "severity_score": 12.0,
+    "failure_description": "The user recalls photos through episodic memory cues such as what people were wearing, but search engines fail to support clothing details and human episodic context over literal object nouns.",
+    "remembered_summary": "people: we | visual_cues: clothing, what we were wearing",
+    "forgotten_summary": "exact date, exact location, keywords to search, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "d417324f-3228-4be9-b24e-c9d46c3a8e10",
+    "text": "Car accident and insurance damage photos: can never find the odometer reading picture\n\nGot into a minor fender bender in 2023. Took 15 photos: the bumper dent, license plate of other car, insurance cards, and my dashboard odometer. When the insurance adjuster asked for the mileage photo last week, I typed 'odometer', 'speedometer', 'dashboard mileage', 'car miles'. Nothing found. Had to spend 30 minutes scrolling through thousands of photos to find that specific day.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/1go5p5/car_accident_insurance_photos_cant_find_odometer/",
+    "date": "2024-08-03T14:15:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "document_screenshot",
+      "visual_detail"
+    ],
+    "category_primary": "document_screenshot",
+    "severity_score": 12.0,
+    "failure_description": "User was unable to find an informational photo of their car's dashboard odometer reading using relevant keywords like 'odometer' and 'mileage'.",
+    "remembered_summary": "temporal_cues: 2023 | visual_cues: bumper dent, license plate of other car, insurance cards, dashboard odometer | event_context: minor fender bender, car accident, insurance damage documentation | object_cues: odometer reading, speedometer, mileage photo, license plate, insurance card",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": "odometer, speedometer, dashboard mileage, car miles"
+  },
+  {
+    "quote_id": "2e211ef6-8b4e-41bd-9265-6fbb7c7c793f",
+    "text": "Dashboard gauges have high glare and numbers, and Google Photos OCR rarely parses seven-segment LCD or mechanical odometer digits.",
+    "source_type": "reddit",
+    "source_url": "https://reddit.com/r/googlephotos/comments/1go5p5/car_accident_insurance_photos_cant_find_odometer/comment_0",
+    "date": "2024-08-03T14:15:00+00:00",
+    "rating": "N/A",
+    "categories": [
+      "document_screenshot"
+    ],
+    "category_primary": "document_screenshot",
+    "severity_score": 20.4,
+    "failure_description": "OCR fails to detect and extract numeric values from mechanical odometers or seven-segment LCD dashboard displays due to specialized typography and glare.",
+    "remembered_summary": "visual_cues: high glare, numbers, seven-segment LCD digits, mechanical odometer digits | object_cues: dashboard gauges, odometer, seven-segment LCD, mechanical odometer",
+    "forgotten_summary": "exact date, exact location, album, file name",
+    "keywords_tried": ""
+  },
+  {
+    "quote_id": "592ba008-4b3b-4b76-94de-0a4c827754a4",
+    "text": "Can't find pics downloaded from iPhone. Saw phots in my PC  in Microsoft photos. Can't find photos\n\nCan't find pics downloaded from iPhone. Saw phots in my PC  in Microsoft photos. Can't find photos",
+    "source_type": "support_forum",
+    "source_url": "https://support.google.com/photos/thread/467271423/can-t-find-pics-downloaded-from-iphone-saw-phots-in-my-pc-in-microsoft-photos-can-t-find-photos?hl=en",
+    "date": "2026-09-21T02:47:59.708696",
+    "rating": "N/A",
+    "categories": [
+      "emergent"
+    ],
+    "category_primary": "emergent",
+    "severity_score": 12.0,
+    "failure_description": "User cannot find photos transferred or downloaded from a specific source device (iPhone/PC), representing a source- or sync-based retrieval failure.",
+    "remembered_summary": "event_context: downloaded from iPhone to PC | object_cues: photos from iPhone",
+    "forgotten_summary": "exact date, exact location, album, keywords to search, file name",
+    "keywords_tried": ""
+  }
+]

@@ -1,0 +1,108 @@
+# Data sources configuration for the Discovery Engine
+
+sources:
+  reddit:
+    enabled: true
+    collector: RedditCollector
+    params:
+      subreddits:
+        - googlephotos
+        - Google
+        - Android
+        - photography
+      search_queries:
+        - "can't find photo"
+        - "search not working"
+        - "old photos"
+        - "find picture"
+        - "lost photo"
+        - "photo search"
+        - "can't locate"
+        - "missing photo"
+        - "where is my photo"
+        - "find old"
+      max_results_per_query: 200
+      include_comments: true
+      comment_depth: 3
+
+  google_play:
+    enabled: true
+    collector: PlayStoreCollector
+    params:
+      app_id: "com.google.android.apps.photos"
+      max_reviews: 5000
+      sort_by: "relevance"
+      filter_keywords:
+        - search
+        - find
+        - retrieve
+        - lost
+        - missing
+        - locate
+        - browse
+        - scroll
+        - remember
+        - old photo
+        - disappeared
+        - album
+        - timeline
+        - date
+        - face
+        - where
+        - looking
+        - organize
+        - deleted
+        - backup
+        - gallery
+        - library
+
+  app_store:
+    enabled: true
+    collector: AppStoreCollector
+    params:
+      app_id: "962194608"
+      countries:
+        - us
+        - gb
+        - ca
+        - au
+      max_reviews: 1500
+      filter_keywords:
+        - search
+        - find
+        - retrieve
+        - lost
+        - missing
+        - locate
+        - browse
+        - scroll
+        - remember
+        - old photo
+        - disappeared
+        - album
+        - timeline
+        - date
+        - face
+        - where
+        - looking
+        - organize
+        - gallery
+        - library
+
+  support_forum:
+    enabled: true
+    collector: SupportForumCollector
+    params:
+      base_url: "https://support.google.com/photos/threads"
+      max_threads: 200
+      search_queries:
+        - "can't find photo"
+        - "search not working"
+        - "missing photos"
+        - "lost photos"
+        - "cannot locate picture"
+        - "search by date"
+        - "face search"
+        - "find old photo"
+        - "find video"
+        - "photo disappeared"

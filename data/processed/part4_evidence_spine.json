@@ -1,0 +1,464 @@
+{
+  "artifact": "part4_evidence_spine",
+  "created": "2026-10-06T15:47:27.147894+00:00",
+  "created_for": "Part 4 - Define the Problem (derived stats; no pipeline artifacts mutated)",
+  "lenses": {
+    "complaint": "98 public failure records (4 sources) - where failure concentrates, severity, workaround extremes",
+    "fieldwork": "F1-F8 aggregate findings, n=5-6 (Part3.md intake 2026-10-06) - median behavior and mechanism",
+    "caveat": "neither lens yields population base rates (Part 2 C5/C10; deferred to Part 7)"
+  },
+  "corpus": {
+    "collected": 558,
+    "relevant": 98,
+    "sources": [
+      "app_store",
+      "google_play",
+      "reddit",
+      "support_forum"
+    ]
+  },
+  "journey_stage_primary": {
+    "Match": {
+      "n": 92,
+      "pct": 93.9
+    },
+    "Express": {
+      "n": 5,
+      "pct": 5.1
+    },
+    "Trigger": {
+      "n": 1,
+      "pct": 1.0
+    }
+  },
+  "journey_stage_involvement": {
+    "Match": {
+      "n": 92,
+      "pct": 93.9
+    },
+    "Refine": {
+      "n": 50,
+      "pct": 51.0
+    },
+    "Express": {
+      "n": 18,
+      "pct": 18.4
+    },
+    "Evaluate": {
+      "n": 17,
+      "pct": 17.3
+    },
+    "Present": {
+      "n": 7,
+      "pct": 7.1
+    },
+    "Trigger": {
+      "n": 1,
+      "pct": 1.0
+    }
+  },
+  "forgotten": {
+    "exact_date": {
+      "n": 76,
+      "pct": 77.6
+    },
+    "exact_location": {
+      "n": 76,
+      "pct": 77.6
+    },
+    "file_name": {
+      "n": 72,
+      "pct": 73.5
+    },
+    "album": {
+      "n": 54,
+      "pct": 55.1
+    },
+    "keywords_to_search": {
+      "n": 37,
+      "pct": 37.8
+    }
+  },
+  "remembered": {
+    "visual_cues": {
+      "n": 48,
+      "pct": 49.0
+    },
+    "object_cues": {
+      "n": 42,
+      "pct": 42.9
+    },
+    "emotions": {
+      "n": 36,
+      "pct": 36.7
+    },
+    "temporal_cues": {
+      "n": 33,
+      "pct": 33.7
+    },
+    "event_context": {
+      "n": 30,
+      "pct": 30.6
+    },
+    "people": {
+      "n": 23,
+      "pct": 23.5
+    },
+    "location_cues": {
+      "n": 15,
+      "pct": 15.3
+    }
+  },
+  "unit_mismatch_cohort": {
+    "definition": "remembers >=1 approximate temporal cue AND has forgotten the exact date",
+    "n": 30,
+    "pct": 30.6,
+    "record_ids": [
+      "4a64fd6a-9c90-41eb-9a2b-712b72e43b8e",
+      "c1ac6410-75a5-46c0-a82f-38a28bbb7d35",
+      "c7d57afb-2c8a-4cab-bd15-5b7a410675a5",
+      "c09791ec-8ada-4a9f-9d3c-6476816d4b86",
+      "4fec847d-b7dc-4101-a672-29904317ce33",
+      "0a663068-2c1b-4439-b7a2-9f4ca386754a",
+      "ecf3348a-8a56-44d1-a5e0-235029ec9356",
+      "7743dba9-dfea-46c5-b7fd-30a116dac544",
+      "77fbb67b-bbc4-42bb-97c3-b9630c344ad0",
+      "a4aca79a-7ac7-4d94-816f-7d8764a935e9",
+      "8cb95479-f630-4e1d-81c3-bd1b01f7b905",
+      "5b22bbfe-53e8-4885-9f3c-cf84f1547638",
+      "0274535d-6950-47b6-9c6b-a3e9657b06e4",
+      "41f17869-41cb-43a6-b9d4-30ea072b0c41",
+      "f8b58680-209f-4e1f-994b-7cd859b181f9",
+      "9c65dc91-39c1-4e93-8716-1974058ff056",
+      "a26714e7-5411-4d43-8b5b-d307185ebd90",
+      "d55119ad-e723-458c-a32f-4f8ca93b1aa7",
+      "2f157ee3-1872-4bc3-a661-20816d1234f2",
+      "fc4fee95-5a95-4d00-a7dd-d83b0135323b",
+      "7d7d8861-c89b-48f7-984c-815a5c8120ae",
+      "3b8a46c2-b04c-4812-a7e5-3672a5fd8b0e",
+      "fe36efbd-1ab4-4277-81c3-a4b358a761c6",
+      "0923c256-21f4-4472-b7cd-f42a931d2764",
+      "d9eae310-5f91-42d4-a5d7-ef04f657a550",
+      "36698876-c646-45f7-a15e-504731b00e39",
+      "e49bd2f8-a2eb-4b9f-b660-8b510bd1abca",
+      "d6b68ab1-0e5f-4e4f-bec3-2afa6310cdb4",
+      "0021a58b-f8c6-4527-807a-e24780ce5469",
+      "d417324f-3228-4be9-b24e-c9d46c3a8e10"
+    ]
+  },
+  "temporal_plus_event_cohort": {
+    "n": 21,
+    "pct": 21.4,
+    "record_ids": [
+      "c1ac6410-75a5-46c0-a82f-38a28bbb7d35",
+      "0a663068-2c1b-4439-b7a2-9f4ca386754a",
+      "7743dba9-dfea-46c5-b7fd-30a116dac544",
+      "77fbb67b-bbc4-42bb-97c3-b9630c344ad0",
+      "5b22bbfe-53e8-4885-9f3c-cf84f1547638",
+      "0274535d-6950-47b6-9c6b-a3e9657b06e4",
+      "41f17869-41cb-43a6-b9d4-30ea072b0c41",
+      "f8b58680-209f-4e1f-994b-7cd859b181f9",
+      "9c65dc91-39c1-4e93-8716-1974058ff056",
+      "a26714e7-5411-4d43-8b5b-d307185ebd90",
+      "d55119ad-e723-458c-a32f-4f8ca93b1aa7",
+      "2f157ee3-1872-4bc3-a661-20816d1234f2",
+      "fc4fee95-5a95-4d00-a7dd-d83b0135323b",
+      "7d7d8861-c89b-48f7-984c-815a5c8120ae",
+      "5e44f9e4-142e-401d-a843-9821619fc0ef",
+      "3b8a46c2-b04c-4812-a7e5-3672a5fd8b0e",
+      "fe36efbd-1ab4-4277-81c3-a4b358a761c6",
+      "e49bd2f8-a2eb-4b9f-b660-8b510bd1abca",
+      "d6b68ab1-0e5f-4e4f-bec3-2afa6310cdb4",
+      "0021a58b-f8c6-4527-807a-e24780ce5469",
+      "d417324f-3228-4be9-b24e-c9d46c3a8e10"
+    ]
+  },
+  "categories": {
+    "emergent": {
+      "n": 43,
+      "pct": 43.88,
+      "severity": 32.16,
+      "opportunity_score": 66.86
+    },
+    "people_event": {
+      "n": 19,
+      "pct": 19.39,
+      "severity": 23.25,
+      "opportunity_score": 40.97
+    },
+    "document_screenshot": {
+      "n": 15,
+      "pct": 15.31,
+      "severity": 15.98,
+      "opportunity_score": 37.34
+    },
+    "visual_detail": {
+      "n": 13,
+      "pct": 13.27,
+      "severity": 16.69,
+      "opportunity_score": 35.77
+    },
+    "contextual_episodic": {
+      "n": 13,
+      "pct": 13.27,
+      "severity": 24.01,
+      "opportunity_score": 34.7
+    },
+    "temporal_approximation": {
+      "n": 9,
+      "pct": 9.18,
+      "severity": 22.1,
+      "opportunity_score": 33.21
+    },
+    "object_in_scene": {
+      "n": 6,
+      "pct": 6.12,
+      "severity": 20.83,
+      "opportunity_score": 28.91
+    },
+    "emotional_association": {
+      "n": 4,
+      "pct": 4.08,
+      "severity": 20.62,
+      "opportunity_score": 23.97
+    }
+  },
+  "severity": {
+    "corpus_mean": 25.5,
+    "emergent_mean": 32.2,
+    "emergent_n": 43,
+    "non_emergent_mean": 20.3,
+    "non_emergent_n": 55
+  },
+  "timeline_scroll_cohort": {
+    "n": 13,
+    "pct": 13.3,
+    "categories_spanned": {
+      "emergent": 4,
+      "emotional_association": 2,
+      "temporal_approximation": 3,
+      "contextual_episodic": 1,
+      "visual_detail": 4,
+      "object_in_scene": 1,
+      "document_screenshot": 2
+    }
+  },
+  "report_anchors": {
+    "visual_contextual_cue_share_pct": 89.8,
+    "avg_query_iterations": 2.8,
+    "source": "data/outputs/discovery_report.md"
+  },
+  "fieldwork_findings": {
+    "F1": "users remember year and event - that is how they search",
+    "F2": "after a broad result, users prefer to scroll and scan manually",
+    "F3": "users do not think to search by colour/clothing/visual attributes",
+    "F4": "voucher pattern: 'screenshot <date>' then scroll (type + rough-date anchor)",
+    "F5": "date and place recalled first; exact date degrades to month+year (recall ladder)",
+    "F6": "users scroll willingly through ~200 photos in grid view",
+    "F7": "dominant trigger: having to show someone the picture (socially motivated retrieval)",
+    "F8": "users search once, then scroll after the first result set",
+    "attribution": "aggregate, n=5-6, per Part3.md fieldwork intake 2026-10-06"
+  },
+  "verified_anchor_quotes": {
+    "e547e4a0": {
+      "quote_id": "e547e4a0-e043-4781-b587-3811931663b8",
+      "severity": 30.0,
+      "source": "reddit",
+      "category": "visual_detail",
+      "excerpt": "Searching for a specific visual detail is impossible (e.g. 'yellow vintage suitcase in hotel room')\n\nI took a photo of my luggage tag on a bright mustard yellow",
+      "url": "https://reddit.com/r/googlephotos/comments/14c3d3/searching_for_visual_detail_is_impossible/"
+    },
+    "9c65dc91": {
+      "quote_id": "9c65dc91-39c1-4e93-8716-1974058ff056",
+      "severity": 30.0,
+      "source": "reddit",
+      "category": "temporal_approximation",
+      "excerpt": "Search by date is completely broken when I don't know the exact year or month\n\nI know I went to that concert sometime in late autumn between 2017 and 2019. If I",
+      "url": "https://reddit.com/r/googlephotos/comments/13b2c2/search_by_date_is_completely_broken_temporal/"
+    },
+    "41f17869": {
+      "quote_id": "41f17869-41cb-43a6-b9d4-30ea072b0c41",
+      "severity": 12.0,
+      "source": "reddit",
+      "category": "contextual_episodic",
+      "excerpt": "I spent 45 minutes scrolling through 2022 trying to find my anniversary dinner photo because I only remember the candlelit table and dimmed lighting, but search",
+      "url": "https://reddit.com/r/googlephotos/comments/12a1b1/why_cant_google_photos_search_by_atmosphere/comment_1"
+    },
+    "d417324f": {
+      "quote_id": "d417324f-3228-4be9-b24e-c9d46c3a8e10",
+      "severity": 12.0,
+      "source": "reddit",
+      "category": "document_screenshot",
+      "excerpt": "Car accident and insurance damage photos: can never find the odometer reading picture\n\nGot into a minor fender bender in 2023. Took 15 photos: the bumper dent, ",
+      "url": "https://reddit.com/r/googlephotos/comments/1go5p5/car_accident_insurance_photos_cant_find_odometer/"
+    },
+    "073c9347": {
+      "quote_id": "073c9347-aa78-48dd-865e-76a2f0f206e9",
+      "severity": 30.0,
+      "source": "reddit",
+      "category": "document_screenshot",
+      "excerpt": "I ended up creating an album called 'Receipts and Documents' because searching for screenshots or documents is a nightmare.",
+      "url": "https://reddit.com/r/googlephotos/comments/16e5f5/cant_find_picture_of_receipt_warranty_serial/comment_1"
+    },
+    "271ad71d": {
+      "quote_id": "271ad71d-e087-4ccf-be38-006bdbb04d96",
+      "severity": 45.6,
+      "source": "reddit",
+      "category": "contextual_episodic",
+      "excerpt": "I'm considering exporting everything to Apple Photos or Immich. Immich with CLIP search actually finds complex queries much better than Google Photos.",
+      "url": "https://reddit.com/r/googlephotos/comments/18g7h7/google_photos_search_makes_me_want_to_switch/comment_0"
+    },
+    "ae05566c": {
+      "quote_id": "ae05566c-2d73-499a-b502-28634d4640d1",
+      "severity": 70.0,
+      "source": "google_play",
+      "category": "emergent",
+      "excerpt": "1/28/2026 MINUS, MINUS ZERO!!! THE CROPPING TOOL IS TERRIBLE 😡😡😡 I ABSOLUTELY HATE THIS NEW UPDATE😡BRING BACK THE OLD GOOGLE PHOTOS!!!! THESE UPDATES GETS WORSE",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=c8455eda-6e43-4994-9ffd-438d16c1f5d9"
+    },
+    "de76e1c3": {
+      "quote_id": "de76e1c3-2e06-42eb-b11d-58eefc2367f1",
+      "severity": 85.6,
+      "source": "google_play",
+      "category": "emergent",
+      "excerpt": "I can't find any of my photos that they took off of my gallery. I hate Google photos. this app takes my well organized photos off of my phone and organizes them",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=03ba0f04-e8ec-42f6-b8c4-b7ad4f484023"
+    },
+    "a26714e7": {
+      "quote_id": "a26714e7-5411-4d43-8b5b-d307185ebd90",
+      "severity": 12.0,
+      "source": "reddit",
+      "category": "temporal_approximation",
+      "excerpt": "Temporal search is so rigid. You either type 'October 2018' or nothing. Humans don't remember timestamps, we remember 'about 5 years ago around Thanksgiving'.",
+      "url": "https://reddit.com/r/googlephotos/comments/13b2c2/search_by_date_is_completely_broken_temporal/comment_0"
+    },
+    "2f157ee3": {
+      "quote_id": "2f157ee3-1872-4bc3-a661-20816d1234f2",
+      "severity": 30.0,
+      "source": "reddit",
+      "category": "people_event",
+      "excerpt": "People + Event combinations fail constantly. 'Dave and Sarah wedding' brings up every photo of Dave ever taken\n\nI wanted to find the photo where my brother Dave",
+      "url": "https://reddit.com/r/googlephotos/comments/15d4e4/people_event_combinations_fail_constantly/"
+    },
+    "205e0de2": {
+      "quote_id": "205e0de2-0afe-41e1-94f8-d0a334a1847c",
+      "severity": 34.0,
+      "source": "reddit",
+      "category": "visual_detail",
+      "excerpt": "Color search in Google Photos is the worst. If I search 'blue dress', it matches any photo that has a blue sky in the background!",
+      "url": "https://reddit.com/r/googlephotos/comments/14c3d3/searching_for_visual_detail_is_impossible/comment_0"
+    },
+    "8f052d77": {
+      "quote_id": "8f052d77-6d58-4909-a909-06e9cc400941",
+      "severity": 62.0,
+      "source": "google_play",
+      "category": "object_in_scene",
+      "excerpt": "Pixel 10. Forced Updates. TEXT/SUBJECT search is FAIL. \"Car Engine\" - have 100s of repair photos But Only 15 Show? Often AI says \"none\"or wonky/useless \"results",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=72dcb862-c595-4edf-a0a9-0ba0b9d4519e"
+    },
+    "c09791ec": {
+      "quote_id": "c09791ec-8ada-4a9f-9d3c-6476816d4b86",
+      "severity": 34.0,
+      "source": "google_play",
+      "category": "emergent",
+      "excerpt": "edit: I fixed the problem, used an apk to download version 7.90! the last update to the UI has made this app unusable. I cant find any of the photos im looking ",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=17ff7e6d-5871-4b4a-961b-a8643651fead"
+    },
+    "0d8dd54a": {
+      "quote_id": "0d8dd54a-8a29-486a-813c-9bd45fff1f37",
+      "severity": 42.0,
+      "source": "google_play",
+      "category": "emergent",
+      "excerpt": "sharing photos to Gemini or Signal or other app doesn't work - literally nothing happens. Search is useless - it doesn't come up with anything on first attempt,",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=55124187-bbcd-4c32-b8ed-2be7922282e1"
+    }
+  },
+  "anchor_union_cohort": {
+    "definition": "remembers >=1 approximate anchor: temporal cue OR event context OR location cue OR person",
+    "n": 54,
+    "pct": 55.1,
+    "record_ids": [
+      "d8481144-f5a2-4db4-a5a9-1b8fa2539754",
+      "4a64fd6a-9c90-41eb-9a2b-712b72e43b8e",
+      "c1ac6410-75a5-46c0-a82f-38a28bbb7d35",
+      "8d7f9bce-b71c-4120-b6e3-e286bfbf04db",
+      "8f052d77-6d58-4909-a909-06e9cc400941",
+      "48d2b904-af4c-41e7-893b-ef947c970196",
+      "ffd5da30-3eff-4181-8068-639659bdd3a5",
+      "ce4f5a45-c85a-4fed-8de2-b50116232a40",
+      "5255ec66-94d6-4bc2-9022-569368b4dac0",
+      "c7d57afb-2c8a-4cab-bd15-5b7a410675a5",
+      "f8333b78-d43e-4659-8a3e-bb8143971915",
+      "c09791ec-8ada-4a9f-9d3c-6476816d4b86",
+      "4fec847d-b7dc-4101-a672-29904317ce33",
+      "0a663068-2c1b-4439-b7a2-9f4ca386754a",
+      "ecf3348a-8a56-44d1-a5e0-235029ec9356",
+      "7743dba9-dfea-46c5-b7fd-30a116dac544",
+      "77fbb67b-bbc4-42bb-97c3-b9630c344ad0",
+      "4985e7db-1054-41f7-a39e-1bb8de007c10",
+      "a4aca79a-7ac7-4d94-816f-7d8764a935e9",
+      "8cb95479-f630-4e1d-81c3-bd1b01f7b905",
+      "dea50237-d781-4322-b570-6750a89e3d13",
+      "5b22bbfe-53e8-4885-9f3c-cf84f1547638",
+      "0274535d-6950-47b6-9c6b-a3e9657b06e4",
+      "41f17869-41cb-43a6-b9d4-30ea072b0c41",
+      "f8b58680-209f-4e1f-994b-7cd859b181f9",
+      "9c65dc91-39c1-4e93-8716-1974058ff056",
+      "a26714e7-5411-4d43-8b5b-d307185ebd90",
+      "d55119ad-e723-458c-a32f-4f8ca93b1aa7",
+      "e547e4a0-e043-4781-b587-3811931663b8",
+      "2f157ee3-1872-4bc3-a661-20816d1234f2",
+      "ee203c6d-0548-49c3-ae73-c4b5e4972dfa",
+      "fc4fee95-5a95-4d00-a7dd-d83b0135323b",
+      "04dc4661-d10c-4aff-842c-8046a6362c4f",
+      "7d7d8861-c89b-48f7-984c-815a5c8120ae",
+      "66b30c29-def7-4539-807f-2343fe42ad00",
+      "5e44f9e4-142e-401d-a843-9821619fc0ef",
+      "c5d93763-bbf7-4d49-bb31-dcf20e0e9859",
+      "da6f576a-2fdd-44c4-9003-c3ed6858bcc5",
+      "3b8a46c2-b04c-4812-a7e5-3672a5fd8b0e",
+      "fe36efbd-1ab4-4277-81c3-a4b358a761c6",
+      "0923c256-21f4-4472-b7cd-f42a931d2764",
+      "6bd44a1d-0001-49ba-9008-650b3037e0e6",
+      "d9eae310-5f91-42d4-a5d7-ef04f657a550",
+      "d244407b-56e2-4d91-861e-d25e66a1026a",
+      "96cdc8d3-4e41-4216-983b-782e7ccc87f5",
+      "36698876-c646-45f7-a15e-504731b00e39",
+      "e49bd2f8-a2eb-4b9f-b660-8b510bd1abca",
+      "93b948e7-15cd-45f5-9bb0-03229fdaae2f",
+      "d6b68ab1-0e5f-4e4f-bec3-2afa6310cdb4",
+      "0021a58b-f8c6-4527-807a-e24780ce5469",
+      "3ee1d194-f842-46b5-b7eb-90e53728b889",
+      "01c18099-5efb-4585-983d-2790f2b88e50",
+      "d417324f-3228-4be9-b24e-c9d46c3a8e10",
+      "592ba008-4b3b-4b76-94de-0a4c827754a4"
+    ],
+    "non_emergent_subset": {
+      "non_emergent_total": 55,
+      "anchor_holders": 42,
+      "pct": 76.4,
+      "note": "among design-relevant (non-update-rage) failure records, ~76% hold at least one approximate anchor"
+    }
+  },
+  "anchor_union_plus_visual_object": {
+    "definition": "anchor union + visual/object cues (any episodic cue at all)",
+    "n": 70,
+    "pct": 71.4
+  },
+  "no_anchor_residual": {
+    "definition": "no temporal/event/location/people anchor remembered",
+    "n": 44,
+    "pct": 44.9,
+    "categories": {
+      "emergent": 31,
+      "people_event": 1,
+      "contextual_episodic": 4,
+      "visual_detail": 2,
+      "document_screenshot": 5,
+      "temporal_approximation": 1,
+      "emotional_association": 1,
+      "object_in_scene": 1
+    },
+    "note": "residual includes visual-only holders (engine-room semantic matching, OP-1) and no-cue records; scoped out of the anchor->neighborhood root cause"
+  }
+}
